@@ -1,0 +1,13 @@
+package dev.code.financial.assistant.ai;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class FinancialAssistantAiApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(FinancialAssistantAiApplication.class, args);
+    }
+
+}
