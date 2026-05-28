@@ -42,12 +42,46 @@
         </dependencies>
     </dependencyManagement>
 
+    <profiles>
+        <profile>
+            <id>ollama</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
+            <properties>
+                <ai.profile>ollama</ai.profile>
+            </properties>
+            <dependencies>
+                <dependency>
+                    <groupId>org.springframework.ai</groupId>
+                    <artifactId>spring-ai-starter-model-ollama</artifactId>
+                </dependency>
+            </dependencies>
+        </profile>
+        <profile>
+            <id>openai</id>
+            <activation>
+                <activeByDefault>false</activeByDefault>
+            </activation>
+            <properties>
+                <ai.profile>openai</ai.profile>
+            </properties>
+            <dependencies>
+                <dependency>
+                    <groupId>org.springframework.ai</groupId>
+                    <artifactId>spring-ai-starter-model-openai</artifactId>
+                </dependency>
+            </dependencies>
+        </profile>
+    </profiles>
+
     <build>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
+                    <jvmArguments>-Dspring.config.additional-location=file:./.env.yml</jvmArguments>
                     <excludes>
                         <exclude>
                             <groupId>org.projectlombok</groupId>
