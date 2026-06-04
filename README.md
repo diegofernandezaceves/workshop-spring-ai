@@ -131,3 +131,11 @@ curl -X POST http://localhost:8080/api/chat \
   -H "Content-Type: application/json" \
   -d '{"message": "¿Qué es Spring AI en una frase?"}'
 ```
+
+### Con y sin prompt del sistema
+
+```bash
+curl -X POST http://localhost:8080/api/chat \
+  -H "Content-Type: application/json" \
+  -d '{"message": "¿Qué te parece un pago de 847€ un sábado a las 3am?"}'
+```
