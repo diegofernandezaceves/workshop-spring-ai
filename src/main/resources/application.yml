@@ -1,3 +1,5 @@
 spring:
   application:
     name: financial-assistant-ai
+  profiles:
+    active: @ai.profile@
