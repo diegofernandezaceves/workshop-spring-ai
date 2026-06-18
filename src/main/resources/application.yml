@@ -3,3 +3,11 @@ spring:
     name: financial-assistant-ai
   profiles:
     active: @ai.profile@
+  ai:
+    vectorstore:
+      chroma:
+        client:
+          host: http://localhost
+          port: 8000
+        collection-name: financial-assistant
+        initialize-schema: true
