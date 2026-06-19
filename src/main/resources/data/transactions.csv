@@ -1,0 +1,1006 @@
+transactionId,amount,category,description,balance,datetime
+a9a93b9f-5e7e-44c2-afa0-d46ae1ac9ee7,2500.00,ahorros,Transferencia inicial de ahorros,2500.00,2025-09-01 09:00:00
+1e4d7087-fe1f-4c44-aad4-76f3233b3c4b,-800.00,hipoteca,Cuota hipoteca,1700.00,2025-09-01 08:30:00
+0eab4dfd-ca0d-4df9-b4eb-dbb417dbfadc,-2.50,restaurante,Café Comercial,1697.50,2025-09-01 09:15:00
+c8bad6c9-e57e-4ed8-8f9d-5f91147b2773,-2.50,restaurante,Cafetería Bruin,1695.00,2025-09-01 15:15:00
+619b86cc-b951-4960-8420-df1d752b108d,-2.00,restaurante,Café Central,1693.00,2025-09-02 09:15:00
+0228342e-117b-46c0-82e0-99f548a935e1,-2.50,restaurante,Café Comercial,1690.50,2025-09-02 15:45:00
+ca930ba7-610e-47d4-b8c2-3df72df17855,-4.00,restaurante,Café Gijón,1686.50,2025-09-03 08:00:00
+f1ceb692-8bf5-466b-85ef-fff3eab4525f,-1.50,restaurante,La Mallorquina,1685.00,2025-09-03 08:45:00
+ef7de979-20ff-4941-8773-631c2738f441,-20.00,ocio,Netflix,1665.00,2025-09-03 10:00:00
+ec1b9ea9-4b31-4916-ab80-e7053969b752,-10.00,ocio,Amazon Prime,1655.00,2025-09-03 10:05:00
+8eb59d7f-8acb-420d-85bd-b01eb8ae1138,-20.00,restaurante,Juancho's BBQ,1635.00,2025-09-03 13:00:00
+facc13a7-9dff-4582-8f48-d2289f044321,-1.50,restaurante,Café Gijón,1633.50,2025-09-03 15:00:00
+8ae46040-92e4-474d-b3c5-97ef5f80774b,-60.00,cajero,Retirada en cajero automático,1573.50,2025-09-03 17:00:00
+585a03d9-31d4-4a17-b54e-18d7ed0aa8a0,-2.50,restaurante,Pastelería Mallorca,1571.00,2025-09-04 09:45:00
+6fbbc7b9-7c1a-4f4b-ad57-fa7ec52a90ce,-2.00,restaurante,Café Central,1569.00,2025-09-04 15:00:00
+1166f763-0864-4e13-a924-9f4c7373df49,-1.50,restaurante,Café Comercial,1567.50,2025-09-05 08:30:00
+55970d06-fcb6-4f8c-9e70-7845ae33256e,-55.00,transporte,Repsol,1512.50,2025-09-05 11:00:00
+d900c3bf-92e9-411d-a32f-f778eb28faff,-3.00,restaurante,Cervecería L'Europe,1509.50,2025-09-05 12:00:00
+31079028-10b9-4663-9e50-23197f4e4ca2,-2.50,restaurante,Cervecería L'Europe,1507.00,2025-09-05 12:15:00
+43ddf2e1-a70d-4784-9388-6523f3ea96a2,-4.00,restaurante,Cervecería L'Europe,1503.00,2025-09-05 12:30:00
+f79a9212-f1cb-441d-90ff-f77dd17deebe,-3.00,restaurante,Cervecería L'Europe,1500.00,2025-09-05 12:45:00
+7cf04800-4295-4d10-a53d-892d0850fe9e,-27.00,restaurante,La Casa del Abuelo,1473.00,2025-09-05 13:30:00
+a1577a51-41aa-4dfc-a224-b68c6c066c02,-2.50,restaurante,Café Central,1470.50,2025-09-05 15:00:00
+c2141e3a-58cf-4f20-9bd4-1150afa559bb,-3.50,restaurante,Bodega La Ardosa,1467.00,2025-09-05 17:00:00
+92e54ca4-191c-4734-ae31-ae68e5225379,-2.50,restaurante,Bodega La Ardosa,1464.50,2025-09-05 17:20:00
+e7b168d4-d9f7-4858-8691-9d987f362d12,-40.00,supermercado,Mercadona,1424.50,2025-09-05 19:15:00
+06d7870e-6a59-4b27-a0d3-ac411b38d6fe,-10.20,transporte,Recarga transporte público Madrid,1414.30,2025-09-06 08:30:00
+c3e51861-8537-4bcb-b8e9-ade5c8ca9b8a,-4.99,ocio,Spotify,1409.31,2025-09-06 10:00:00
+fc9915c5-3f1f-4340-be0b-517e0eeb4adb,-2.50,restaurante,Taproom Madrid,1406.81,2025-09-06 12:00:00
+8a8c45a1-41b4-45ec-8aae-779492f59321,-3.00,restaurante,Taproom Madrid,1403.81,2025-09-06 12:00:00
+2dc5df3f-5e06-42cb-a2ac-36825c5ec196,-2.50,restaurante,Taproom Madrid,1401.31,2025-09-06 12:15:00
+fe4c7d6d-5f98-4af1-abad-83ee68854023,-3.00,restaurante,Taproom Madrid,1398.31,2025-09-06 12:30:00
+a3647c43-9e6a-4301-86df-37a779bcee3b,-3.00,restaurante,Taproom Madrid,1395.31,2025-09-06 12:45:00
+406dd8b7-c4e7-4b09-a88b-82fec7425573,-34.00,restaurante,Dantxari,1361.31,2025-09-06 13:00:00
+596354cd-53f8-486f-a9ca-4a36f08b4874,-3.00,restaurante,Craft 19,1358.31,2025-09-06 23:00:00
+b2c4a553-d163-4d2c-8b8f-ca2c1b6c04b4,-3.50,restaurante,Craft 19,1354.81,2025-09-06 23:25:00
+068a0ba5-1762-4beb-9ec9-3b72d6a0f1df,-3.00,restaurante,Craft 19,1351.81,2025-09-07 00:00:00
+de278ffb-ae95-4718-a759-bdd6478f1c66,-3.00,restaurante,Craft 19,1348.81,2025-09-07 00:25:00
+c2dbfc84-6f27-46e6-b451-e9abc2af0e6e,-3.50,restaurante,Craft 19,1345.31,2025-09-07 01:00:00
+79128525-443e-4509-9182-8d39a7a4d760,-18.00,transporte,Cabify,1327.31,2025-09-07 02:00:00
+e60618c4-9ac1-4a11-ab5b-22c206bbd9e7,-20.00,ocio,Karting,1307.31,2025-09-07 12:00:00
+5a2e04fc-7eda-4ca9-9397-d8b9b55106de,-3.50,restaurante,Bar Paco,1303.81,2025-09-07 12:00:00
+f2d9fee1-67e5-4cc9-adad-af8d0bca4e3a,-20.00,ocio,Karting,1283.81,2025-09-07 12:15:00
+ba0943c4-4c55-4af6-8b08-da98abe065e5,-3.00,restaurante,El Caño,1280.81,2025-09-07 12:15:00
+97604fb3-fce2-4b6b-ae0a-9e8628deffcf,-2.50,restaurante,El Caño,1278.31,2025-09-07 12:30:00
+5fada2b6-ec44-4dda-bf78-59a25510d274,-3.00,restaurante,El Caño,1275.31,2025-09-07 12:45:00
+94c69e0c-3156-4d27-b8ec-f49ec4567456,-22.00,restaurante,La Trainera,1253.31,2025-09-07 14:15:00
+ea245c3f-e40e-4de8-800e-288b874cd813,-2.50,restaurante,Sifón bodega & colmado,1250.81,2025-09-07 17:00:00
+be1cecef-68a2-4d34-bd40-09bc3c8fb7d3,-3.50,restaurante,Sifón bodega & colmado,1247.31,2025-09-07 17:00:00
+8b4bd72d-e1bc-43d1-b3be-5734bc040141,-2.50,restaurante,Sifón bodega & colmado,1244.81,2025-09-07 17:20:00
+bf3da74b-3a17-49e3-8faf-cf3a4b2aea62,-3.00,restaurante,Sifón bodega & colmado,1241.81,2025-09-07 17:40:00
+aea2915a-893a-4e8f-9bab-89b5f9165185,-44.00,restaurante,La Casa del Abuelo,1197.81,2025-09-07 20:15:00
+35674426-5658-4172-915e-7d9fcb7afdd9,-1.50,restaurante,Café Central,1196.31,2025-09-08 09:45:00
+0ef7923a-b27d-41e7-94c6-051f21736bac,-2.00,restaurante,Bar El Anciano,1194.31,2025-09-08 15:45:00
+55ad4463-b5c4-4e44-99e7-a32f8218b5ca,-2.00,restaurante,Café Comercial,1192.31,2025-09-09 08:15:00
+c2683db6-20df-42e3-95c2-ab03d5c4d754,-2.00,restaurante,Cafetería Bruin,1190.31,2025-09-09 15:45:00
+9ee8ed30-eff5-4625-a912-ea5a5306da29,-5.00,restaurante,Pastelería Mallorca,1185.31,2025-09-10 09:00:00
+032dc267-19c0-4e5c-adf9-7b75f1414a60,-1.50,restaurante,Cafetería Manila,1183.81,2025-09-10 09:15:00
+5daab621-c6b1-4470-8e81-4ce4087724e0,-16.00,restaurante,Juancho's BBQ,1167.81,2025-09-10 14:15:00
+732f5e6d-2442-44f4-ab8d-859619ade944,-2.50,restaurante,La Mallorquina,1165.31,2025-09-10 15:30:00
+6a3f1fae-6160-4756-b51b-f0fae620e210,-2.00,restaurante,Bar El Anciano,1163.31,2025-09-11 08:45:00
+dbb1fdb2-7341-4c68-bfc0-4603de8710fe,-2.00,restaurante,Café Melo's,1161.31,2025-09-11 15:00:00
+aaa993a4-856b-4ae9-bdef-1f961ee97472,-2.00,restaurante,Café Melo's,1159.31,2025-09-12 09:45:00
+0dcd679c-3e16-4d95-8c15-92861f95cbe4,-3.50,restaurante,Poor And Beer,1155.81,2025-09-12 12:00:00
+d95515c2-bd33-40b5-bf41-14e6c88baf15,-4.00,restaurante,Poor And Beer,1151.81,2025-09-12 12:00:00
+73637797-0a04-4576-a753-414b34b264a6,-3.50,restaurante,Poor And Beer,1148.31,2025-09-12 12:15:00
+dfd4f123-e37f-458a-9886-0095c89162c7,-2.50,restaurante,Poor And Beer,1145.81,2025-09-12 12:30:00
+d41da581-07ea-4ab6-be9b-107bb5e91a82,-4.00,restaurante,Poor And Beer,1141.81,2025-09-12 12:45:00
+62f12f9d-ae2d-4dfe-afb9-8667cf2c8142,-1.50,restaurante,Bar El Anciano,1140.31,2025-09-12 15:30:00
+70c3ce43-134d-4ab9-b59e-ced1c158868e,-45.00,supermercado,Carrefour,195.31,2025-09-12 18:15:00
+af1ac79d-28bc-4942-88af-ce33ee21cf91,-3.50,restaurante,Cervecería L'Europe,191.81,2025-09-12 23:00:00
+cf7c3252-14ad-4f62-a0b1-077c5a968fcb,-3.50,restaurante,Cervecería L'Europe,1088.31,2025-09-12 23:25:00
+8058ed96-fc05-4625-8153-a695974b4f68,-2.50,restaurante,Cervecería L'Europe,1085.81,2025-09-13 00:00:00
+47168862-06c6-4c1a-be2a-4bb689d8b7d4,-4.00,restaurante,Cervecería L'Europe,1081.81,2025-09-13 00:25:00
+13107c35-da76-4a47-aa8e-c01a252b8887,-22.00,transporte,Cabify,1059.81,2025-09-13 03:00:00
+1ed81d34-cbd3-4f15-b1d5-74e7a1b877b8,-2.50,restaurante,Fábrica Excepcional,1057.31,2025-09-13 12:00:00
+c508eebe-8a8f-4270-bc2b-8f2226dd0dc5,-3.50,restaurante,Fábrica Excepcional,1053.81,2025-09-13 12:15:00
+5aabbde6-4aab-4129-bf80-d47a15e530cc,-4.00,restaurante,Fábrica Excepcional,1049.81,2025-09-13 12:30:00
+32fbe5d0-b13d-4cac-96e0-162956ffff61,-4.00,restaurante,Fábrica Excepcional,1045.81,2025-09-13 12:45:00
+3dddcf7d-78b1-444a-98ec-75b3466bae41,-45.00,restaurante,La Maquina,1000.81,2025-09-13 20:30:00
+8ec90b75-1776-46f8-907f-edf210c1d76f,-20.00,ocio,Karting,980.81,2025-09-14 12:00:00
+dabfeb8f-7aba-43f3-b11b-e079b5d78c85,-4.00,restaurante,Fábrica Excepcional,976.81,2025-09-14 12:00:00
+15e31a1c-aa7b-4b61-8d58-e8493345a866,-20.00,ocio,Karting,956.81,2025-09-14 12:15:00
+5b1da9c4-1043-45c4-b487-8a24ef7fd3e6,-2.50,restaurante,Fábrica Excepcional,954.31,2025-09-14 12:15:00
+e429e159-fac7-4f7b-b2ec-8213d46ca771,-20.00,ocio,Karting,934.31,2025-09-14 12:30:00
+c8e556c4-56da-4a50-81e5-a383e6a4d096,-3.00,restaurante,Fábrica Excepcional,931.31,2025-09-14 12:30:00
+a5b4520d-8420-4ff6-aa0e-bbe8756d85e5,-3.00,restaurante,Fábrica Excepcional,928.31,2025-09-14 12:45:00
+3ba44011-edac-447d-b683-85b32cb705c2,-36.00,restaurante,El Bodegón,892.31,2025-09-14 13:00:00
+5b803ccf-4af8-46e6-a034-d5fc34f4b225,-35.00,restaurante,El Bodegón,857.31,2025-09-14 21:00:00
+7fef09e0-74d2-49e2-b4b7-447618a05b69,-4.00,restaurante,Beer House,853.31,2025-09-14 23:00:00
+0e511350-fb43-46ec-8bc2-678457bc2d40,-2.50,restaurante,Beer House,850.81,2025-09-14 23:25:00
+69f7fe66-ded2-4ca9-bb6e-d6e716f9cd09,-27.00,transporte,Cabify,823.81,2025-09-15 01:00:00
+a95e051c-5402-4268-8eff-4e3cd966606e,-2.00,restaurante,Café de Oriente,821.81,2025-09-15 09:15:00
+ca883995-4c2c-4eb1-8e86-6d4ad7638157,-2.00,restaurante,Pastelería Mallorca,819.81,2025-09-15 15:45:00
+a3492d86-bbbb-4314-a407-f92244fd53e9,-2.00,restaurante,Café Central,817.81,2025-09-16 09:15:00
+133806f8-ab61-45fc-ba82-41b0782e1c3b,-1.50,restaurante,Bar La Peña,816.31,2025-09-16 15:30:00
+a0d850e1-b0b7-4c48-9727-fb4fc718b940,-41.00,supermercado,Carrefour,775.31,2025-09-16 18:15:00
+a3834bd9-bbc5-4781-99e3-1448e5bab2b5,-5.00,restaurante,Bar El Anciano,770.31,2025-09-17 08:00:00
+7a6c9a5d-066c-41ec-902f-68e63f5aefa0,-2.00,restaurante,Cafetería Manila,768.31,2025-09-17 08:15:00
+dd6cccc4-abc7-47ff-b04e-4b2911e9c7f1,-18.00,restaurante,Juancho's BBQ,750.31,2025-09-17 14:00:00
+c8b07c3c-5d01-45e1-952a-18e93049e7a1,-2.00,restaurante,Bar La Peña,748.31,2025-09-17 15:45:00
+dcc674f8-fd06-4a34-9da3-2d5469c804a8,-1.50,restaurante,Café Melo's,746.81,2025-09-18 08:00:00
+1bd23104-7244-4b77-b3cf-baed81220292,-2.00,restaurante,Café Melo's,744.81,2025-09-18 15:15:00
+df967575-0931-461b-a11c-206b27b306a4,-40.00,cajero,Retirada en cajero automático,704.81,2025-09-18 16:00:00
+7e23344f-9c23-40ed-afa2-50adc4376ffe,-72.00,supermercado,Mercadona,632.81,2025-09-18 18:00:00
+9bbde314-5683-44c4-acfd-aeba3682fc66,-2.00,restaurante,Bar La Peña,630.81,2025-09-19 08:30:00
+3b9210b3-883b-4e8f-9674-af5661eae8c4,-55.00,transporte,Galp Vallecas,575.81,2025-09-19 09:00:00
+7088597c-6979-423b-94e0-681b5aa061dd,-4.00,restaurante,Cervecissimus,571.81,2025-09-19 12:00:00
+9c0fecb7-4bdb-4e02-b00c-7dd3bead5d73,-3.50,restaurante,Cervecissimus,568.31,2025-09-19 12:00:00
+cfec901b-5526-496b-8ab4-78b6baae7bb4,-2.50,restaurante,Cervecissimus,565.81,2025-09-19 12:15:00
+227fc945-f8c9-465d-95ac-86851239b638,-4.00,restaurante,Cervecissimus,561.81,2025-09-19 12:15:00
+d76bc58c-1c1c-4fca-b965-e57fb834cb4e,-3.00,restaurante,Cervecissimus,558.81,2025-09-19 12:30:00
+52849f1c-fd46-4aa0-848b-2a794a95db3a,-3.00,restaurante,Cervecissimus,555.81,2025-09-19 12:45:00
+d67390aa-30b4-4593-a119-c4ad638004e1,-27.00,restaurante,La Trainera,528.81,2025-09-19 14:00:00
+42a0528f-c05e-4527-b8c8-82c1bfa227b3,-2.50,restaurante,Cafetería Bruin,526.31,2025-09-19 15:45:00
+51151640-600e-473e-9c4a-ee99818dc5a6,-3.00,restaurante,Beer House,523.31,2025-09-19 17:00:00
+1e947c0f-52bd-4fba-a720-bd4e821716eb,-3.50,restaurante,Beer House,519.81,2025-09-19 17:20:00
+00e29186-8fcd-4756-ba64-430077a6b340,-3.00,restaurante,Beer House,516.81,2025-09-19 23:00:00
+4fb243a2-8da9-4827-92f1-947ec598d235,-2.50,restaurante,Beer House,514.31,2025-09-19 23:25:00
+1bc359dd-9568-4315-bec5-cabb79f75675,-40.00,transferencia,Transferencia bancaria,474.31,2025-09-20 13:00:00
+4d609442-e077-44cc-ba46-85cb1d151062,-48.00,restaurante,Casa Mariano,426.31,2025-09-21 20:00:00
+3d9ea4bc-cd60-42bc-9294-b55c87b00174,-2.50,restaurante,Bar La Peña,423.81,2025-09-22 09:15:00
+80049be0-9c66-4ace-b580-817187367f57,-1.50,restaurante,Café de Oriente,422.31,2025-09-22 15:00:00
+018dd5a1-82be-4aac-83f1-e57ae7d83799,-1.50,restaurante,Bar El Anciano,420.81,2025-09-23 08:00:00
+6ec19900-9fd6-4139-a179-083d84876d2d,-2.00,restaurante,Café Melo's,418.81,2025-09-23 15:30:00
+65b33f94-b065-4eb4-96ec-5b37626535b4,-4.00,restaurante,Café Central,414.81,2025-09-24 09:00:00
+a1eebba8-fa79-43fb-93e9-6ecebdeec5cb,-2.50,restaurante,La Mallorquina,412.31,2025-09-24 09:15:00
+d5f4655a-9e92-4a32-a2c6-e699b00f15a1,-16.00,restaurante,Juancho's BBQ,396.31,2025-09-24 13:15:00
+ddf9e8b0-ecb0-4f25-af2c-66a07182fbd4,-2.00,restaurante,Café Gijón,394.31,2025-09-24 15:45:00
+9f3cdd33-b7c8-4381-9917-98e50861329e,-30.00,transferencia,Transferencia bancaria,364.31,2025-09-24 16:00:00
+1d82c719-929c-499c-b010-3ccf67764428,-66.00,supermercado,Carrefour,298.31,2025-09-24 18:15:00
+3fa7ae23-8ff0-4984-85b9-a6adee2ce97b,-2.50,restaurante,Café Melo's,295.81,2025-09-25 09:45:00
+e3809cf9-293d-465a-a24b-5b6bf2978ac1,-12.99,ocio,DAZN,282.82,2025-09-25 10:00:00
+7836b618-a142-4a50-beb2-9a132d059c6a,-2.50,restaurante,Café Central,280.32,2025-09-25 15:15:00
+c5a1051e-e22d-46d5-b9d5-82231fefca0f,-87.00,supermercado,Mercadona,193.32,2025-09-25 19:30:00
+e9e3b9a7-2265-4e15-9fb0-4da41d737195,-2.00,restaurante,Cafetería Bruin,191.32,2025-09-26 08:30:00
+4ec9df46-ea81-4f20-bfbf-8ae4fff45e66,-2.50,restaurante,Café Gijón,188.82,2025-09-26 15:45:00
+4d9d4eb4-8deb-4f2c-9dd6-baecbaaff6d4,-10.20,transporte,Recarga transporte público Madrid,178.62,2025-09-27 09:30:00
+bc5ab777-c181-4885-be8a-615ce787e4a2,2500.00,nomina,Nómina mensual,2678.62,2025-09-28 09:00:00
+b6c7dd66-587a-4b60-9a6c-3b2b0775c331,-20.00,ocio,Karting,2658.62,2025-09-28 12:00:00
+d352083a-673c-4090-8705-4cd3c2bb2f99,-20.00,ocio,Karting,2638.62,2025-09-28 12:15:00
+abd45390-ec74-4052-8334-236daecc994e,-2.00,restaurante,La Mallorquina,2636.62,2025-09-29 09:15:00
+a8d89c46-f773-4fc1-b0bf-d6d5e886e469,-2.50,restaurante,Cafetería Bruin,2634.12,2025-09-29 15:15:00
+90afaecd-5a9b-4f76-ade0-fbfe2dd75829,-48.00,supermercado,Mercadona,2586.12,2025-09-29 18:30:00
+09277d08-a13b-4628-aa31-e1d124ea17fc,-2.50,restaurante,Café Central,2583.62,2025-09-30 08:00:00
+8f50ab1c-bb2a-47e4-a1e7-e6283dbb9545,-2.00,restaurante,Café Central,2581.62,2025-09-30 15:00:00
+7acfe447-51f8-4d72-a489-3386286208db,-10.20,transporte,Recarga transporte público Madrid,2571.42,2025-10-01 07:00:00
+c9bbc1b7-57c4-4c05-94cd-c92f8bb6190f,-5.00,restaurante,Café Comercial,2566.42,2025-10-01 08:00:00
+7b142918-ac27-489e-b1e8-30c9fafb4182,-1.50,restaurante,Bar El Anciano,2564.92,2025-10-01 08:15:00
+5422c6fe-9774-4070-a848-30fbecf35f98,-800.00,hipoteca,Cuota hipoteca,1764.92,2025-10-01 08:30:00
+504b15dd-7432-4006-b871-1bee366c1740,-15.00,restaurante,Juancho's BBQ,1749.92,2025-10-01 14:00:00
+98ecd7cc-fe34-4e50-a4e9-f699efc03be5,-1.50,restaurante,Cafetería Manila,1748.42,2025-10-01 15:45:00
+3be15631-6d54-4bf4-b49a-c1ce60da5b37,-55.00,supermercado,Alcampo,1693.42,2025-10-01 18:15:00
+b02dfecc-1008-425c-b3c1-98507f575d88,-1.50,restaurante,Bar El Anciano,1691.92,2025-10-02 08:00:00
+aaa99922-8449-4ba3-bf10-12a71beae9c4,-60.00,transporte,Repsol,1631.92,2025-10-02 10:15:00
+eca3a2a8-4aab-4fd4-abde-dda4a21e573e,-2.00,restaurante,Café Gijón,1629.92,2025-10-02 15:15:00
+a31bcd2f-4edd-4500-a46d-1444c36d1426,-2.50,restaurante,Bar La Peña,1627.42,2025-10-03 09:15:00
+2278c74a-9be2-492a-8b38-3c397585cffc,-20.00,ocio,Netflix,1607.42,2025-10-03 10:00:00
+1181b098-ce26-43fc-9dcd-3ddc2fd4603f,-10.00,ocio,Amazon Prime,1597.42,2025-10-03 10:05:00
+70c8e21e-66d3-41c3-9eb3-18cb62b5922a,-3.00,restaurante,Brew Wild,1594.42,2025-10-03 12:00:00
+7c0cf134-ba2f-4f0f-bf62-4598755d0e08,-2.50,restaurante,Brew Wild,1591.92,2025-10-03 12:00:00
+2bb2e028-0503-4cc3-98b2-7f3041ff2c53,-2.50,restaurante,Brew Wild,1589.42,2025-10-03 12:15:00
+8903bdba-0928-49ee-97d5-74608b2caf09,-3.00,restaurante,Brew Wild,1586.42,2025-10-03 12:30:00
+c3f05ba0-1387-433f-bdf4-8a87a28ddc56,-4.00,restaurante,Brew Wild,1582.42,2025-10-03 12:45:00
+cd865adb-0ebb-40de-9d2e-021aded7e2c8,-39.00,restaurante,Restaurante Botin,1543.42,2025-10-03 14:00:00
+84acce13-0de6-4dca-a188-dc93cec8bec5,-2.00,restaurante,Café de Oriente,1541.42,2025-10-03 15:00:00
+2e8ddb11-fc47-48a5-9c65-dcc153a8f1ce,-2.50,restaurante,Cervecería L'Europe,1538.92,2025-10-03 23:00:00
+1388a6d2-3f42-4102-b46e-7daa7b57774f,-2.50,restaurante,Cervecería L'Europe,1536.42,2025-10-03 23:25:00
+b79a57e8-6d25-47f5-8c24-0454c2cdbb6a,-2.50,restaurante,Cervecería L'Europe,1533.92,2025-10-04 00:00:00
+f5776533-43a8-4655-8576-2ee5e8503e2a,-3.00,restaurante,Cervecería L'Europe,1530.92,2025-10-04 00:25:00
+06ab486d-249b-4871-9d31-024e75c0d00b,-18.00,transporte,Cabify,1512.92,2025-10-04 02:00:00
+74a0fedb-ce8f-44c5-8c1f-5081509898dd,-4.00,restaurante,Fábrica Excepcional,1508.92,2025-10-04 12:00:00
+b711215b-f99f-4c75-b828-78d0794eecbd,-3.00,restaurante,Fábrica Excepcional,1505.92,2025-10-04 12:00:00
+f85169ca-82f1-4105-871d-b97051e9b2b4,-2.50,restaurante,Fábrica Excepcional,1503.42,2025-10-04 12:15:00
+048b339e-a063-4fdb-8807-0b700ec96f38,-3.00,restaurante,Fábrica Excepcional,1500.42,2025-10-04 12:15:00
+6bf2cda3-dbd0-4498-931d-52a509bc7f22,-3.00,restaurante,Fábrica Excepcional,1497.42,2025-10-04 12:30:00
+ee94aa20-1e29-47c5-abb2-9730a3fd0a73,-2.50,restaurante,Fábrica Excepcional,1494.92,2025-10-04 12:45:00
+68f12b14-a72d-42d2-a754-cfc51944e6ec,-35.00,restaurante,La Trainera,1459.92,2025-10-04 13:15:00
+383cdc51-38a6-4c52-ad3b-7b7debef9e5b,-42.00,restaurante,Taberna El Sur,1417.92,2025-10-04 21:30:00
+40529747-37e4-438f-b760-0131270cc818,-3.50,restaurante,Cervecería L'Europe,1414.42,2025-10-04 23:00:00
+bff075b5-1f17-4991-b672-576c6361dbcc,-2.50,restaurante,Cervecería L'Europe,1411.92,2025-10-04 23:25:00
+11947d98-abbd-40ff-be4d-fe1a5b06f0e5,-2.50,restaurante,Cervecería L'Europe,1409.42,2025-10-05 00:00:00
+22f90d24-cb3f-4064-b44b-6e070b2a778b,-3.50,restaurante,Cervecería L'Europe,1405.92,2025-10-05 00:25:00
+be586b07-fb5f-41de-b84d-8f4e51168c6d,-2.50,restaurante,Cervecería L'Europe,1403.42,2025-10-05 01:00:00
+bdb8e6f0-7fbd-4e42-8c14-7cb3682589c5,-28.00,transporte,Cabify,1375.42,2025-10-05 01:00:00
+81e6aed8-140f-463f-99d2-9df71c6a3dbc,-3.50,restaurante,Fábrica Excepcional,1371.92,2025-10-05 12:00:00
+ed8668cf-87ec-4875-a100-8915907e5792,-3.50,restaurante,Fábrica Excepcional,1368.42,2025-10-05 12:00:00
+91b337b7-f5ec-4951-a823-9987608e8055,-4.00,restaurante,Fábrica Excepcional,1364.42,2025-10-05 12:15:00
+225a806c-7788-41a3-b9d4-72f0113588f5,-3.00,restaurante,Fábrica Excepcional,1361.42,2025-10-05 12:15:00
+bee458c6-e26e-4244-87fe-0400088ad7e8,-3.00,restaurante,Fábrica Excepcional,1358.42,2025-10-05 12:30:00
+0046e604-59a9-44ae-b8f7-0d0749b0abc2,-3.50,restaurante,Fábrica Excepcional,1354.92,2025-10-05 12:45:00
+137b3547-34b0-4347-bc12-e356f0711375,-35.00,restaurante,Dantxari,1319.92,2025-10-05 14:00:00
+cc8ff58b-bdac-46ed-aa2c-46f4b1bd9c08,-3.00,restaurante,Bodega La Ardosa,1316.92,2025-10-05 23:00:00
+99ca3788-c3c4-4547-b46b-cf42c1539f88,-4.00,restaurante,Bodega La Ardosa,1312.92,2025-10-05 23:25:00
+87f61405-1f7f-439c-b510-c2329c206178,-3.50,restaurante,Bodega La Ardosa,1309.42,2025-10-06 00:00:00
+22b69217-12fc-4c63-92a5-63a6850ac252,-3.00,restaurante,Bodega La Ardosa,1306.42,2025-10-06 00:25:00
+db36537a-3e9c-4d5e-9575-7756f4c38cef,-26.00,transporte,Cabify,1280.42,2025-10-06 02:00:00
+70f2fbff-b631-4a9a-9561-e908add3e2c6,-1.50,restaurante,Cafetería Manila,1278.92,2025-10-06 09:45:00
+fa124e59-73a0-45fd-82c9-0637de1aad87,-4.99,ocio,Spotify,1273.93,2025-10-06 10:00:00
+894e3728-d8a9-4607-827a-e48cdec03d00,-1.50,restaurante,Café de Oriente,1272.43,2025-10-06 15:00:00
+9562dda1-6dc1-4f56-bb39-1bb391fbd447,-2.50,restaurante,Bar La Peña,1269.93,2025-10-07 09:30:00
+807bc000-7e93-4147-ae84-697e3a0256d2,-1.50,restaurante,Bar La Peña,1268.43,2025-10-07 15:30:00
+83d2116e-dce6-45a4-9984-9cbed4102528,-1.50,restaurante,Café de Oriente,1266.93,2025-10-08 08:00:00
+8b9f5d02-10e7-4406-8d2b-477c7915460d,-4.00,restaurante,Pastelería Mallorca,1262.93,2025-10-08 09:00:00
+22565cde-97fe-4449-bcfe-fd4ada012cdf,-18.00,restaurante,Juancho's BBQ,1244.93,2025-10-08 14:15:00
+e37ba531-3e3e-46fa-bd71-7b21c220270b,-2.00,restaurante,Café Gijón,1242.93,2025-10-08 15:45:00
+6510364f-b4fc-414d-a168-582a05d2f729,-2.50,restaurante,Cafetería Bruin,1240.43,2025-10-09 09:15:00
+a1bfdf0d-c4ab-4440-b426-020c18885e7f,-40.00,cajero,Retirada en cajero automático,1200.43,2025-10-09 10:00:00
+666678d3-32ea-4f5e-bf4b-bc1ba95a3bf7,-2.00,restaurante,Pastelería Mallorca,1198.43,2025-10-09 15:15:00
+2f139acc-ec8b-440c-bd96-c12143d992e4,-89.00,supermercado,Carrefour,119.43,2025-10-09 18:00:00
+e87c2643-f349-4f38-8b3a-9c5d7d09f296,-2.00,restaurante,El Riojano,1107.43,2025-10-10 08:15:00
+1a703f66-c01e-4722-951e-aad064aaf66c,-3.00,restaurante,Cervecissimus,1104.43,2025-10-10 12:00:00
+9510d0b6-75d9-4760-8d16-40bc5d418558,-3.50,restaurante,Cervecissimus,1100.93,2025-10-10 12:15:00
+d734a382-8475-4169-b060-cef427debe50,-3.50,restaurante,Cervecissimus,197.43,2025-10-10 12:30:00
+b50a16de-9036-4362-97e7-5f4d8371b649,-3.50,restaurante,Cervecissimus,193.93,2025-10-10 12:45:00
+c9951b6f-af7c-465e-9e24-4b36a5be3258,-35.00,restaurante,La Trainera,1058.93,2025-10-10 14:30:00
+b22210fd-e617-4967-a4ca-d915dbb9d2e8,-2.00,restaurante,Pastelería Mallorca,1056.93,2025-10-10 15:00:00
+ffe0ea3f-cb59-4df8-a165-52c5b239fe4f,-3.00,restaurante,El Caño,1053.93,2025-10-10 17:00:00
+56eca352-93c0-4d4d-a3b7-d6a59e84944c,-3.00,restaurante,El Caño,1050.93,2025-10-10 17:20:00
+37474019-66fd-4756-8014-6295459acd67,-4.00,restaurante,Cervecissimus,1046.93,2025-10-11 12:00:00
+173b3950-5cc8-48a1-8fc6-0844c30cfc57,-4.00,restaurante,Cervecissimus,1042.93,2025-10-11 12:15:00
+ff1030ab-7d6c-418c-b9b5-5c95bec128b5,-3.50,restaurante,Cervecissimus,1039.43,2025-10-11 12:30:00
+3f7434f9-fb82-4d64-a521-67d1f7c8ddaf,-4.00,restaurante,Cervecissimus,1035.43,2025-10-11 12:45:00
+0936cbf7-c742-48b5-8266-912db1f997e6,-37.00,restaurante,El Bodegón,998.43,2025-10-11 13:30:00
+839f3d24-9232-4f60-99dd-2517b54b4468,-3.00,restaurante,Cervecería L'Europe,995.43,2025-10-12 12:00:00
+97cbb90d-984a-4b84-9b5a-3f31d13bfa81,-4.00,restaurante,Cervecería L'Europe,991.43,2025-10-12 12:00:00
+ba805b68-e1d3-46ee-9dfd-06899fa893c1,-2.50,restaurante,Cervecería L'Europe,988.93,2025-10-12 12:15:00
+e2c73778-7e41-4ed7-8e1e-4a75a2f9416d,-4.00,restaurante,Cervecería L'Europe,984.93,2025-10-12 12:30:00
+6c2efa66-9c2f-43ae-9795-0d4b78c9b25e,-3.00,restaurante,Cervecería L'Europe,981.93,2025-10-12 12:45:00
+8962ae15-7bd1-4857-b088-c479dc887d1d,-3.00,restaurante,La Taverna,978.93,2025-10-12 17:00:00
+36bbff74-477f-4437-b78f-868f5191f4c1,-3.50,restaurante,La Taverna,975.43,2025-10-12 17:00:00
+29ad6cfc-53b5-4daf-a1f8-95237cffff24,-3.00,restaurante,La Taverna,972.43,2025-10-12 17:20:00
+4c7ee469-d5dd-48d5-a6ea-b551c970f9ea,-3.00,restaurante,La Taverna,969.43,2025-10-12 17:40:00
+b223a974-8b84-46ed-85ad-deafc0b91be4,-43.00,restaurante,Casa Mariano,926.43,2025-10-12 20:00:00
+32ed1146-d1d4-43a9-8f1b-e24daa767e5b,-2.50,restaurante,El Riojano,923.93,2025-10-13 09:15:00
+022cf4ef-96f6-4e63-8627-c7221883a58b,-1.50,restaurante,Bar La Peña,922.43,2025-10-13 15:30:00
+c2f31d24-cac4-411c-ad24-1efffadf674b,-2.50,restaurante,Café Comercial,919.93,2025-10-14 09:00:00
+6f4d9d49-1d26-4425-90a7-974fb01f3fa6,-25.00,transferencia,Transferencia bancaria,894.93,2025-10-14 15:00:00
+53230763-1a9e-4697-b9ad-53fafe4ef637,-2.00,restaurante,Bar El Anciano,892.93,2025-10-14 15:00:00
+8a0c29d3-205f-44ae-a9d5-73e51dbbcf2f,-2.00,restaurante,Café Comercial,890.93,2025-10-15 08:00:00
+ec64f69d-24c6-4e03-b201-609ac945a565,-4.00,restaurante,La Mallorquina,886.93,2025-10-15 08:00:00
+16481074-9e9a-423e-987b-7085ba74a562,-16.00,restaurante,Juancho's BBQ,870.93,2025-10-15 14:30:00
+771bbf1e-c12b-4830-bce2-b22431d50ea2,-1.50,restaurante,Pastelería Mallorca,869.43,2025-10-15 15:00:00
+889f98e5-c842-4ac6-9e60-465d31e33f08,-44.00,supermercado,Carrefour,825.43,2025-10-15 19:00:00
+384bb7f4-58ea-4d8d-9920-90959c6ecdec,-2.00,restaurante,La Mallorquina,823.43,2025-10-16 08:15:00
+601220ea-5dea-4454-931b-10477ffe59c1,-65.00,transporte,Repsol,758.43,2025-10-16 09:00:00
+2f4637ed-665e-474a-b3f6-06c2bc1c23c7,-2.50,restaurante,Café Central,755.93,2025-10-16 15:00:00
+bea5df1f-09f0-4e7f-9faa-faf184c7e2a2,-1.50,restaurante,Bar El Anciano,754.43,2025-10-17 08:30:00
+19a2db6c-4b34-4999-813b-93e7706604e3,-2.00,restaurante,Cafetería Bruin,752.43,2025-10-17 15:00:00
+ce34f810-a3ff-478a-80bc-503afe8dbd56,-41.00,supermercado,Carrefour,711.43,2025-10-17 19:15:00
+5d4d44a7-dd6d-4972-8e18-9e977dffd08e,-20.00,ocio,Karting,691.43,2025-10-18 12:00:00
+ea58be8e-b834-4123-b530-c76101e92ea8,-20.00,ocio,Karting,671.43,2025-10-18 12:15:00
+f3a4993c-3991-4752-9bfe-8a197df0fe41,-20.00,ocio,Karting,651.43,2025-10-18 12:30:00
+2ec98746-3f42-4345-a522-74ae38900444,-2.50,restaurante,Café Melo's,648.93,2025-10-20 09:45:00
+bc00bc0d-248e-4a18-9d7d-c5e5a1519da2,-50.00,cajero,Retirada en cajero automático,598.93,2025-10-20 11:00:00
+c07b654f-71a2-4510-8ab8-d2277f9a6a2c,-2.50,restaurante,Pastelería Mallorca,596.43,2025-10-20 15:30:00
+9e6571ad-519a-4f08-b39b-584ee66a72c5,-2.00,restaurante,Bar La Peña,594.43,2025-10-21 08:00:00
+ef4a60da-c5a2-45c7-9689-41d26d0fc5b3,-2.00,restaurante,Pastelería Mallorca,592.43,2025-10-21 15:15:00
+1d29863c-8577-445b-a995-07e575ce2f58,-57.00,supermercado,Alcampo,535.43,2025-10-21 19:30:00
+b8716a37-0860-44b7-b641-3a78cb613c6e,-10.20,transporte,Recarga transporte público Madrid,525.23,2025-10-22 07:15:00
+fad95f7c-837c-4332-b0a2-04c774d9ab0e,-3.00,restaurante,Café Comercial,522.23,2025-10-22 09:00:00
+d2bc6d9a-abbf-42bd-8108-81837b7cd9ad,-2.50,restaurante,Café Gijón,519.73,2025-10-22 09:45:00
+b33e23d6-9a80-4a4c-ac75-40ce96d39b42,-15.00,restaurante,Juancho's BBQ,504.73,2025-10-22 14:00:00
+d9569a5b-baae-45fa-b59d-2d074b78c7a8,-2.50,restaurante,Café Melo's,502.23,2025-10-22 15:30:00
+0d854a56-16ce-4bdd-a012-ee79ddf38675,-30.00,transferencia,Transferencia bancaria,472.23,2025-10-22 16:00:00
+620aeb86-95b3-4a8b-8682-2e8c96d83940,-1.50,restaurante,La Mallorquina,470.73,2025-10-23 09:00:00
+8cbeeeae-c35b-4f00-b5a6-4ef911cf8b13,-2.50,restaurante,Cafetería Manila,468.23,2025-10-23 15:30:00
+32c0d6f7-58cb-48f0-a7c1-215d7f8cefdc,-2.50,restaurante,Café Gijón,465.73,2025-10-24 09:30:00
+edd46cf5-8c7e-46f3-a58e-40b4516e7ebe,-2.50,restaurante,Bar La Peña,463.23,2025-10-24 15:30:00
+f1714943-2c8b-4faf-ad2f-016e2461f3aa,-12.99,ocio,DAZN,450.24,2025-10-25 10:00:00
+62181a15-7caa-4e1a-a8a5-7272c0d8be73,-20.00,ocio,Karting,430.24,2025-10-25 12:00:00
+3ab6a4ee-4320-4ea1-8227-c669d1867be0,-20.00,ocio,Karting,410.24,2025-10-25 12:15:00
+407d0f43-dd69-42ca-b194-6b49f8b45a2c,-20.00,ocio,Karting,390.24,2025-10-25 12:30:00
+b5553262-214d-4aa8-9571-68121ff51af4,-20.00,ocio,Karting,370.24,2025-10-26 12:00:00
+e1828858-7f67-4749-8e3c-fd2f1a69ee73,-20.00,ocio,Karting,350.24,2025-10-26 12:15:00
+3f621d3a-e415-49af-a77a-ac288c03f51e,-20.00,ocio,Karting,330.24,2025-10-26 12:30:00
+5657d8a0-d436-43b0-b02e-94dbd4a2c082,-2.50,restaurante,Café Comercial,327.74,2025-10-27 08:30:00
+18f94a14-75e8-4cf3-b285-1b887c42df03,-2.50,restaurante,Bar El Anciano,325.24,2025-10-27 15:30:00
+e928d79c-afb0-4acc-bcbf-6356f6b4a14d,-68.00,supermercado,Carrefour,257.24,2025-10-27 19:15:00
+dcd584b2-b2a4-40ac-86f3-d3c2b00a303d,-1.50,restaurante,Café Gijón,255.74,2025-10-28 08:00:00
+b53ba59e-fae7-44ae-95e4-7a259f7710ad,2500.00,nomina,Nómina mensual,2755.74,2025-10-28 09:00:00
+3d45b90e-a762-4670-a854-c0daee12d2a3,-2.50,restaurante,Cafetería Bruin,2753.24,2025-10-28 15:00:00
+45177aff-9079-400c-8897-b5f9b66c37c5,-3.00,restaurante,Café Central,2750.24,2025-10-29 08:00:00
+575913a3-6f3b-4d1f-bf5d-b4651184a20b,-2.00,restaurante,Café Central,2748.24,2025-10-29 09:45:00
+307f7fd7-11f3-4d3a-9de9-f0956c1531fc,-16.00,restaurante,Juancho's BBQ,2732.24,2025-10-29 13:15:00
+e143f924-7923-4649-bd54-9ab12be94f23,-2.50,restaurante,Café de Oriente,2729.74,2025-10-29 15:45:00
+b150976e-2088-4988-8235-a36534b8d06f,-61.00,supermercado,Mercadona,2668.74,2025-10-29 18:30:00
+3d535b19-f874-4ad4-b093-4c701af14487,-2.50,restaurante,Café Central,2666.24,2025-10-30 08:00:00
+1c2c7d5d-89f0-41f6-839e-7c50b418cf00,-2.00,restaurante,El Riojano,2664.24,2025-10-30 15:30:00
+27d81344-dbaa-4e47-8e32-a20299e1c9ef,-1.50,restaurante,Café de Oriente,2662.74,2025-10-31 08:30:00
+694cc7c7-001d-40bf-aa2e-d6f76bc9b643,-2.00,restaurante,Café Gijón,2660.74,2025-10-31 15:15:00
+a20b472c-e0ee-4b9b-a6f6-4f2e067e146e,-800.00,hipoteca,Cuota hipoteca,1860.74,2025-11-01 08:30:00
+8dd63735-6a54-460e-857a-41a5653741b8,-50.00,cajero,Retirada en cajero automático,1810.74,2025-11-01 10:00:00
+4f6ca49f-d313-4401-94ad-fae9095b8cd3,-20.00,ocio,Karting,1790.74,2025-11-01 12:00:00
+132d2298-0da5-495e-85fc-b89cab89fb05,-20.00,ocio,Karting,1770.74,2025-11-01 12:15:00
+3b7ce314-6446-4c56-afc9-b019778c31d8,-20.00,ocio,Karting,1750.74,2025-11-01 12:30:00
+4c80d18b-829a-4285-b6db-9256ad1cd311,-1.50,restaurante,Café Central,1749.24,2025-11-03 08:30:00
+7e8c0fd6-99e9-48b6-b06b-16e171fa54f9,-20.00,ocio,Netflix,1729.24,2025-11-03 10:00:00
+ba71630d-ee0b-4b9e-98cf-aba00083d1d8,-10.00,ocio,Amazon Prime,1719.24,2025-11-03 10:05:00
+0880534a-e293-491d-acee-32de7ce34ca0,-2.00,restaurante,Café Comercial,1717.24,2025-11-03 15:15:00
+31e19b41-5386-4992-90a9-231eb29292f8,-52.00,supermercado,Alcampo,1665.24,2025-11-03 19:15:00
+b9bfbf4a-8137-471e-85b4-94e3ed05fba5,-1.50,restaurante,El Riojano,1663.74,2025-11-04 09:30:00
+56777db1-4a5d-4308-ac3e-21c2779c420f,-2.00,restaurante,Café Central,1661.74,2025-11-04 15:15:00
+17563fe1-d9ec-4672-8de0-8ba85c44e554,-25.00,transferencia,Transferencia bancaria,1636.74,2025-11-04 16:00:00
+d08449dc-e117-456e-8f8c-08987dd4a745,-3.00,restaurante,Café Comercial,1633.74,2025-11-05 08:00:00
+56e6886b-cab5-4af5-8da5-66fc94b12a2a,-1.50,restaurante,Café de Oriente,1632.24,2025-11-05 08:15:00
+92152089-0bcd-4cf1-965c-684d31d2f330,-16.00,restaurante,Juancho's BBQ,1616.24,2025-11-05 14:15:00
+0170a799-f6e6-447a-bc6e-e916df27b5d3,-2.00,restaurante,El Riojano,1614.24,2025-11-05 15:00:00
+0e1d7b1b-9ba5-4f1a-81e2-fb5a1a1b4030,-75.00,supermercado,Alcampo,1539.24,2025-11-05 19:30:00
+5bcb29ae-c194-4b28-ae16-f2c71126811a,-10.20,transporte,Recarga transporte público Madrid,1529.04,2025-11-06 08:30:00
+5a963716-6484-4aaf-a996-0191b94a9add,-2.00,restaurante,El Riojano,1527.04,2025-11-06 09:15:00
+e4cfca09-f8e6-4675-aea5-e514d040502b,-4.99,ocio,Spotify,1522.05,2025-11-06 10:00:00
+c2002042-bec6-43f4-be5b-a43e61583bc2,-1.50,restaurante,Bar El Anciano,1520.55,2025-11-06 15:15:00
+1e1e9551-c337-4b88-8330-aa68a8244339,-2.50,restaurante,Bar El Anciano,1518.05,2025-11-07 09:30:00
+fc72fab9-86d3-4afa-a25b-36b7c982d6a4,-3.00,restaurante,La Abadia,1515.05,2025-11-07 12:00:00
+c5379a6b-ff14-4770-bafa-cad86318e758,-4.00,restaurante,La Abadia,1511.05,2025-11-07 12:00:00
+d20faf36-a3a1-41a3-afdb-d77c807b8ec6,-2.50,restaurante,La Abadia,1508.55,2025-11-07 12:15:00
+7b4b0966-af5e-4196-9746-dfe4de3275a3,-4.00,restaurante,La Abadia,1504.55,2025-11-07 12:30:00
+f8bd0f01-e988-46e7-8a5f-f9d2d19c047c,-3.00,restaurante,La Abadia,1501.55,2025-11-07 12:45:00
+1d83b064-160e-4b44-9d27-efda0474b0f4,-37.00,restaurante,Sala de Despiece,1464.55,2025-11-07 14:30:00
+9c3b79dc-f7d5-45ed-b461-aaf9015d65fc,-1.50,restaurante,Pastelería Mallorca,1463.05,2025-11-07 15:45:00
+68aa1657-fb16-4c24-b9d5-151fe36bede2,-2.50,restaurante,La Abadia,1460.55,2025-11-07 17:00:00
+b912874b-98a1-4070-925e-30f872425814,-2.50,restaurante,La Abadia,1458.05,2025-11-07 17:20:00
+082700ef-df9f-4561-bc9c-17a5ad37935a,-3.50,restaurante,La Abadia,1454.55,2025-11-07 17:40:00
+be9d24f6-e7cc-4472-8e41-3d36df0f31fe,-3.50,restaurante,Cervecissimus,1451.05,2025-11-07 23:00:00
+c56b2499-cc3c-469d-88b3-57e9fdff93df,-2.50,restaurante,Cervecissimus,1448.55,2025-11-07 23:25:00
+ce76ac7a-5eb7-4662-bf26-a2c309e3bf7c,-3.50,restaurante,Cervecissimus,1445.05,2025-11-08 00:00:00
+1e7b059c-2d00-4f64-94d1-01d7d83c283f,-2.50,restaurante,Cervecissimus,1442.55,2025-11-08 00:25:00
+ec737218-559b-4ff5-a435-5b430caaf91b,-4.00,restaurante,Cervecissimus,1438.55,2025-11-08 01:00:00
+4180c84b-f367-47e4-8255-7a08d3cb1106,-20.00,transporte,Cabify,1418.55,2025-11-08 03:00:00
+56f7d527-73a0-4dd7-a63d-3e2ea3e3580b,-60.00,transporte,Cepsa M-30 Norte,1358.55,2025-11-08 10:15:00
+8a70e3da-c837-49cd-b3b4-5f2df728b617,-20.00,ocio,Karting,1338.55,2025-11-08 12:00:00
+0b320705-fbb4-4c1a-97f6-ef9950c12c11,-2.50,restaurante,Cervecería Estrella,1336.05,2025-11-08 12:00:00
+c991a275-85e0-4f32-86b5-eccd8ee745b6,-3.50,restaurante,Cervecería Estrella,1332.55,2025-11-08 12:00:00
+b5cc078d-a27c-4415-9091-66b2588f0095,-20.00,ocio,Karting,1312.55,2025-11-08 12:15:00
+a9256b4e-be59-401d-ad2b-caad8d6fe893,-3.00,restaurante,Cervecería Estrella,1309.55,2025-11-08 12:15:00
+c1a46777-a28c-436b-8a5e-ff45e5454c90,-20.00,ocio,Karting,1289.55,2025-11-08 12:30:00
+f8522165-5ea1-4fe9-bf34-7facbd125b69,-4.00,restaurante,Cervecería Estrella,1285.55,2025-11-08 12:30:00
+1557ebf3-672b-410d-8156-03d8bc901de6,-3.00,restaurante,Cervecería Estrella,1282.55,2025-11-08 12:45:00
+1b306385-708d-4ce4-84d4-839d0dca8c29,-2.50,restaurante,Cervecissimus,1280.05,2025-11-08 17:00:00
+ffc859fc-c3d1-48b1-a5f0-314b7d888b27,-3.50,restaurante,Cervecissimus,1276.55,2025-11-08 17:00:00
+8b114085-69fc-41c8-a4b8-2c8bea2eeed5,-3.00,restaurante,Cervecissimus,1273.55,2025-11-08 17:20:00
+8845e757-9410-470e-84fe-11b3f7ec1ba8,-2.50,restaurante,Cervecissimus,1271.05,2025-11-08 17:40:00
+e3dac47f-3fc3-42c4-8252-65bde2ec061f,-46.00,restaurante,Casa Mariano,1225.05,2025-11-08 20:00:00
+d11e522e-fa1f-440b-aa97-ed11cf3008ef,-4.00,restaurante,La Abadia,1221.05,2025-11-09 12:00:00
+c7c049fd-b639-4e3b-837c-e0690be619d3,-3.50,restaurante,La Abadia,1217.55,2025-11-09 12:00:00
+efba13de-4d38-4a32-8e1b-221a484722d7,-2.50,restaurante,La Abadia,1215.05,2025-11-09 12:15:00
+ef867a46-7862-4441-9e34-be2d625511c0,-3.00,restaurante,La Abadia,1212.05,2025-11-09 12:15:00
+1cbaafe9-4951-4637-b560-26b539ba6f99,-2.50,restaurante,La Abadia,1209.55,2025-11-09 12:30:00
+e0743713-06a4-4bac-9db3-d5fad3d269be,-4.00,restaurante,La Abadia,1205.55,2025-11-09 12:45:00
+97ef6929-b9ea-481f-b081-e98fcdc0b4c5,-3.50,restaurante,La Taverna,1202.05,2025-11-09 17:00:00
+b818b13f-679b-47e1-9efd-9e9b312d3375,-2.50,restaurante,La Taverna,1199.55,2025-11-09 17:00:00
+26000726-d2b1-448d-bc18-04ecbf76925f,-2.50,restaurante,La Taverna,1197.05,2025-11-09 17:20:00
+530c3d40-0ae7-4e7b-83e3-7ea683e60125,-3.50,restaurante,La Taverna,1193.55,2025-11-09 17:40:00
+b8a7490e-3d38-478b-8db1-b33cc6eeb0c8,-2.00,restaurante,Café Central,1191.55,2025-11-10 08:15:00
+6360c19e-ea12-4459-a92e-4180a46a5b81,-2.00,restaurante,La Mallorquina,1189.55,2025-11-10 15:15:00
+2506841b-7d58-4fd8-be71-ccdeab42b7af,-2.50,restaurante,Café Comercial,1187.05,2025-11-11 08:15:00
+e9bb62d7-420c-4ffe-b201-7cc36f9d6606,-40.00,transferencia,Transferencia bancaria,1147.05,2025-11-11 15:00:00
+28deb250-af8d-4446-b762-464eded4dda9,-1.50,restaurante,Bar El Anciano,1145.55,2025-11-11 15:30:00
+c2481550-ec7a-4857-bc1e-909337ba9db9,-54.00,supermercado,Mercadona,191.55,2025-11-11 18:00:00
+bc1edd98-b2ab-4a2b-958c-99c8846795f0,-1.50,restaurante,Café Gijón,190.05,2025-11-12 08:00:00
+0371da91-4281-4869-abc1-e3f19453f2ba,-3.00,restaurante,La Mallorquina,1087.05,2025-11-12 08:00:00
+e09dfe29-9604-42f4-9514-efc6025331b7,-15.00,restaurante,Juancho's BBQ,1072.05,2025-11-12 13:30:00
+fbe93163-7cd2-472a-85c7-e27d579c3029,-1.50,restaurante,La Mallorquina,1070.55,2025-11-12 15:15:00
+3b018502-b924-4880-9db0-2e056ffff177,-47.00,supermercado,Alcampo,1023.55,2025-11-12 19:15:00
+ee985fda-2aab-44d7-af6b-ffe322e46eaf,-2.00,restaurante,Café Gijón,1021.55,2025-11-13 09:30:00
+b16161b3-585e-40c0-bd50-d9ee87bb3ab7,-2.00,restaurante,El Riojano,1019.55,2025-11-13 15:45:00
+6481a743-f48d-42c9-b613-3543ea0f5417,-1.50,restaurante,Cafetería Bruin,1018.05,2025-11-14 09:15:00
+d3cd0ee9-09e4-4640-8134-740609520408,-3.00,restaurante,Beer House,1015.05,2025-11-14 12:00:00
+0b8de2d0-9af5-46fe-8bfe-7c4fee7b9fe2,-4.00,restaurante,Beer House,1011.05,2025-11-14 12:15:00
+411a7474-3624-45c7-bc4a-eff253aec7a7,-3.50,restaurante,Beer House,1007.55,2025-11-14 12:30:00
+0a2fd008-30c4-4ad0-be42-3a4c9e128ae4,-2.50,restaurante,Beer House,1005.05,2025-11-14 12:45:00
+604b95d1-b536-4aeb-8598-2e053a0742f0,-29.00,restaurante,La Trainera,976.05,2025-11-14 14:00:00
+12ba6795-251d-4ea5-9bd7-61acbc2bf7bb,-1.50,restaurante,Café Central,974.55,2025-11-14 15:45:00
+670639cc-27a2-464a-beb1-4e530058b36d,-3.00,restaurante,La Taverna,971.55,2025-11-14 17:00:00
+42d6f118-262c-469c-877f-baa37be2bfd4,-2.50,restaurante,La Taverna,969.05,2025-11-14 17:20:00
+ecdb7554-bbe9-418a-9916-4d45ef5f14f5,-2.50,restaurante,La Taverna,966.55,2025-11-14 17:40:00
+36a95d70-a361-4952-8f11-b9eb5eed0c48,-47.00,restaurante,La Maquina,919.55,2025-11-14 20:30:00
+f1d6e128-67f2-4d16-873b-a95cd22f18e0,-4.00,restaurante,La Taverna,915.55,2025-11-15 12:00:00
+1b05fe00-1e0e-4f87-84ac-167559555175,-3.00,restaurante,La Taverna,912.55,2025-11-15 12:15:00
+405ba4d6-7c9a-4c00-9ff1-43c3cce7a2cc,-3.50,restaurante,La Taverna,909.05,2025-11-15 12:30:00
+5371b35b-c692-4003-9274-d91968593f91,-28.00,restaurante,Sala de Despiece,881.05,2025-11-15 14:30:00
+7fb081ab-c5ae-400a-bc10-d2c498177d90,-3.00,restaurante,Cervecería Estrella,878.05,2025-11-15 17:00:00
+d0e43b4c-5ddc-4a8a-b8bc-58610c0d5f33,-3.50,restaurante,Cervecería Estrella,874.55,2025-11-15 17:00:00
+41fccd30-430c-4fd9-82ca-c794b49c8263,-3.50,restaurante,Cervecería Estrella,871.05,2025-11-15 17:20:00
+1ca04c66-31a9-4ca4-9339-1d4ec89a871b,-3.00,restaurante,Cervecería Estrella,868.05,2025-11-15 17:40:00
+dd5aed2c-ce1a-4a44-9c2a-42013b0dd5ff,-50.00,cajero,Retirada en cajero automático,818.05,2025-11-16 11:00:00
+44effa66-cf45-4f27-8892-7c5f9cabffb1,-20.00,ocio,Karting,798.05,2025-11-16 12:00:00
+22eb336b-2393-498e-9692-a9ac8af96085,-3.00,restaurante,Cervecería L'Europe,795.05,2025-11-16 12:00:00
+e4385c13-c328-4fe3-a00d-e0ef47e1309a,-4.00,restaurante,Cervecería L'Europe,791.05,2025-11-16 12:00:00
+c9c684e4-30a7-437b-862c-cfebfacdf217,-20.00,ocio,Karting,771.05,2025-11-16 12:15:00
+7a082d0c-f67c-4849-9dc3-4b3845176ee7,-3.00,restaurante,Cervecería L'Europe,768.05,2025-11-16 12:15:00
+f9b1fe7c-3ebf-4af1-97a8-6544170950f0,-4.00,restaurante,Cervecería L'Europe,764.05,2025-11-16 12:15:00
+d69c6d8b-7f6a-4b43-bbe6-51fa56d72ac0,-20.00,ocio,Karting,744.05,2025-11-16 12:30:00
+3a5e6727-c294-4895-ba36-abe99f1a533f,-3.00,restaurante,Cervecería L'Europe,741.05,2025-11-16 12:30:00
+704e4b7a-2b3e-4262-ad90-e35124a767e8,-4.00,restaurante,Cervecería L'Europe,737.05,2025-11-16 12:45:00
+5029c721-5253-4550-9b8a-39cf3391d92d,-30.00,restaurante,Restaurante Botin,707.05,2025-11-16 13:00:00
+d9917b27-47ce-420c-bf90-09955cc1aea1,-3.00,restaurante,Bodega La Ardosa,704.05,2025-11-16 17:00:00
+bcc26b3f-bbfe-4819-b993-0457aeffb731,-3.50,restaurante,Bodega La Ardosa,700.55,2025-11-16 17:00:00
+c5273443-5e4b-45b5-bfa5-0a3f91d070a9,-3.00,restaurante,Bodega La Ardosa,697.55,2025-11-16 17:20:00
+e809c7ed-d3ce-4922-9fd9-8fb01f22597b,-2.50,restaurante,Bodega La Ardosa,695.05,2025-11-16 17:40:00
+6ee74f32-7ca8-4ad5-8d12-d07b56ccb1eb,-2.50,restaurante,Fábrica Excepcional,692.55,2025-11-16 23:00:00
+483b8fe5-9695-439f-a9ac-4a49a96f6df4,-4.00,restaurante,Fábrica Excepcional,688.55,2025-11-16 23:25:00
+a5a844bb-464c-4fa0-8668-f88923462694,-4.00,restaurante,Fábrica Excepcional,684.55,2025-11-17 00:00:00
+cbd7b75f-b785-4c9f-a35b-8b88918a9ecf,-2.50,restaurante,Fábrica Excepcional,682.05,2025-11-17 00:25:00
+1d6a24cd-8e69-4537-8bb0-c25431d18147,-3.00,restaurante,Fábrica Excepcional,679.05,2025-11-17 01:00:00
+0211152c-2097-49e9-b47d-547cde3817f3,-19.00,transporte,Cabify,660.05,2025-11-17 02:00:00
+f097952f-f4de-45ed-bc24-7dcaaf6e3c1c,-1.50,restaurante,Bar La Peña,658.55,2025-11-17 09:15:00
+8721759a-bd0d-4dd5-8529-f7eefe81fc36,-2.00,restaurante,El Riojano,656.55,2025-11-17 15:30:00
+9f3780e0-a891-4009-934f-4074f1c3a1cd,-1.50,restaurante,Café Comercial,655.05,2025-11-18 08:15:00
+286d183a-844c-4d1a-a452-f715c32a865b,-2.50,restaurante,Bar La Peña,652.55,2025-11-18 15:30:00
+a7f34218-fcd2-419-a817-84d046ff83bc,-50.00,supermercado,Alcampo,602.55,2025-11-18 18:15:00
+ea26aec1-0feb-43bb-8822-f0ceec4719a7,-3.00,restaurante,Café Comercial,599.55,2025-11-19 08:00:00
+c4cdd784-a2ef-474f-bff2-d5704b819fba,-2.50,restaurante,La Mallorquina,597.05,2025-11-19 08:45:00
+8aaac7af-54cd-46db-8735-fd294c92685a,-16.00,restaurante,Juancho's BBQ,581.05,2025-11-19 14:00:00
+2f888a33-7af8-4b6f-b921-a512801fd6a4,-2.00,restaurante,Bar La Peña,579.05,2025-11-19 15:45:00
+cbc4ecea-2177-4a66-a82c-14ba11017e25,-1.50,restaurante,Café Gijón,577.55,2025-11-20 08:15:00
+4ade38c6-c8d0-4616-8a55-e1aee0db6518,-2.50,restaurante,La Mallorquina,575.05,2025-11-20 15:45:00
+4f673582-0778-4c95-86ee-fff5c971d7ce,-2.50,restaurante,Pastelería Mallorca,572.55,2025-11-21 09:00:00
+5251438c-1c81-4d95-ac42-b69da217bc4c,-3.50,restaurante,Bodega La Ardosa,569.05,2025-11-21 12:00:00
+bda96899-e320-4e83-88a1-a3c098ef0a26,-2.50,restaurante,Bodega La Ardosa,566.55,2025-11-21 12:15:00
+5fbf98a7-2e10-430b-a869-f884e3b021a8,-4.00,restaurante,Bodega La Ardosa,562.55,2025-11-21 12:30:00
+b1b70e07-efd3-4bb0-bbaf-df7ebb65effd,-2.50,restaurante,Bodega La Ardosa,560.05,2025-11-21 12:45:00
+66267727-47d1-4ae1-8973-eaf22973f9f9,-1.50,restaurante,Cafetería Manila,558.55,2025-11-21 15:00:00
+d8f3a4b8-d0c2-4fc4-9fae-bf6f289c8db6,-65.00,transporte,Repsol Alcobendas,493.55,2025-11-22 11:15:00
+5237dfab-a586-4566-a641-af22bc17a0dc,-22.00,restaurante,Taberna El Sur,471.55,2025-11-23 13:00:00
+b47203f5-34a4-47b6-84bb-0c66e693ea1a,-2.50,restaurante,El Riojano,469.05,2025-11-24 09:45:00
+4dfe9df8-336d-4b48-b615-e40a03b800e3,-2.00,restaurante,Café Melo's,467.05,2025-11-24 15:30:00
+327b6fd4-7279-4412-842b-83526f79f7c3,-77.00,supermercado,Mercadona,390.05,2025-11-24 18:30:00
+8a1feacf-cb01-416e-ac7c-6ef1d7b55c88,-2.00,restaurante,Café Melo's,388.05,2025-11-25 08:45:00
+550cd573-3372-4eb9-bdd5-1e2a273c478a,-12.99,ocio,DAZN,375.06,2025-11-25 10:00:00
+d1badc63-70ef-4e5d-b229-9a3f440d7098,-2.00,restaurante,Pastelería Mallorca,373.06,2025-11-25 15:45:00
+1627ba87-60d0-40d5-87a8-7f4d7b0b47dc,-87.00,supermercado,Carrefour,286.06,2025-11-25 18:00:00
+ec53d95c-4f5e-411d-9fdc-d3208fd33ae2,-5.00,restaurante,Café Melo's,281.06,2025-11-26 08:00:00
+092b24f3-7a48-41b6-a2cd-a8e52ed7ec39,-2.50,restaurante,La Mallorquina,278.56,2025-11-26 08:15:00
+948f4915-1adf-447f-bde4-15d23d847319,-16.00,restaurante,Juancho's BBQ,262.56,2025-11-26 14:30:00
+66446899-ad83-49ad-910f-ed63760641f8,-2.50,restaurante,Café Gijón,260.06,2025-11-26 15:00:00
+bf8ba99a-2054-4e64-a603-5f2cb5cd3412,-10.20,transporte,Recarga transporte público Madrid,249.86,2025-11-27 08:30:00
+c06a851d-a9fa-42c5-bc0f-ed5780144288,-2.00,restaurante,Bar El Anciano,247.86,2025-11-27 08:30:00
+044186fb-aea9-46d4-ad94-97fbaf73c013,-1.50,restaurante,El Riojano,246.36,2025-11-27 15:30:00
+55acfa76-4e32-4bd6-acb4-73c5407b572d,-1.50,restaurante,Café Melo's,244.86,2025-11-28 08:15:00
+e244a2c6-ff84-4422-a823-20f31bf40bb8,2500.00,nomina,Nómina mensual,2744.86,2025-11-28 09:00:00
+0ec8f32a-02f5-4023-8dcf-9d3640955ea8,-2.50,restaurante,Café Central,2742.36,2025-11-28 15:30:00
+e463a00e-2e76-483d-9dba-ed63395e43c1,-800.00,hipoteca,Cuota hipoteca,1942.36,2025-12-01 08:30:00
+738b06ba-46fe-442d-ba36-234148b51308,-2.00,restaurante,Cafetería Manila,1940.36,2025-12-01 08:30:00
+78370eff-646b-45ce-8684-665cf11d74fd,-2.50,restaurante,Cafetería Bruin,1937.86,2025-12-01 15:30:00
+232da879-883a-4e85-8dd4-2d88d2b6d3d8,-2.50,restaurante,Café Gijón,1935.36,2025-12-02 08:00:00
+f2eeb537-26af-4a2e-bce6-6f905a17dca2,-65.00,transporte,Repsol,1870.36,2025-12-02 09:15:00
+94fbce4f-3f57-4249-940c-879ef11abe5f,-2.50,restaurante,La Mallorquina,1867.86,2025-12-02 15:00:00
+4227ed72-81e6-41c3-a421-cfcf683d8064,-4.00,restaurante,Pastelería Mallorca,1863.86,2025-12-03 08:00:00
+003b971b-74a9-427a-b216-fc31dae8f4eb,-1.50,restaurante,Café Melo's,1862.36,2025-12-03 09:45:00
+0241e9c9-1248-4e49-840a-1e4d0b16c3fb,-20.00,ocio,Netflix,1842.36,2025-12-03 10:00:00
+7ab23c53-3b5c-43ed-aa36-6526d6384894,-10.00,ocio,Amazon Prime,1832.36,2025-12-03 10:05:00
+a3381599-fd65-48c8-9c57-caac1cfd744c,-20.00,restaurante,Juancho's BBQ,1812.36,2025-12-03 14:15:00
+eb5c24f5-b4d5-4a73-bd49-afbc1bb8e717,-1.50,restaurante,Bar La Peña,1810.86,2025-12-03 15:45:00
+4562f6c0-cfbc-462c-821b-fef389a5c544,-2.00,restaurante,El Riojano,1808.86,2025-12-04 08:00:00
+29aa1913-0ec0-4286-91dd-be28bf5dee5b,-30.00,transferencia,Transferencia bancaria,1778.86,2025-12-04 10:00:00
+60da94b4-c7eb-4d6b-b29b-cd1d75abb516,-1.50,restaurante,Bar El Anciano,1777.36,2025-12-04 15:30:00
+af0abeb3-e34e-4052-bb0a-a3fce4a539c1,-67.00,supermercado,Carrefour,1710.36,2025-12-04 18:00:00
+266255cf-f555-45fe-ab74-8965f2577609,-2.00,restaurante,Café de Oriente,1708.36,2025-12-05 08:30:00
+f4916bbb-2e16-4378-be46-4600f68661c0,-4.00,restaurante,Bodega La Ardosa,1704.36,2025-12-05 12:00:00
+0e968f73-6b80-4302-b0aa-7f28a32069c5,-3.00,restaurante,Bodega La Ardosa,1701.36,2025-12-05 12:15:00
+cd536701-d05e-4ae3-bac0-93f395b65741,-4.00,restaurante,Bodega La Ardosa,1697.36,2025-12-05 12:30:00
+dee2e754-2f1b-4222-b4a1-461258849b28,-32.00,restaurante,Taberna La Daniela,1665.36,2025-12-05 13:15:00
+8d595f96-78e4-4806-ad1d-3fb0daf3cc52,-2.50,restaurante,Café Gijón,1662.86,2025-12-05 15:00:00
+cb1ddbcf-7ef4-4fde-8fae-3a0c1d836010,-3.50,restaurante,Bodega La Ardosa,1659.36,2025-12-05 17:00:00
+89d1544c-25d4-4549-9afe-e7f7e7f46d5a,-3.00,restaurante,Bodega La Ardosa,1656.36,2025-12-05 17:20:00
+c1660ee0-70a4-4d98-9459-c26a23efc815,-2.50,restaurante,Bodega La Ardosa,1653.86,2025-12-05 17:40:00
+fe9546a6-75a4-4ff1-b19f-dd593846287b,-59.00,supermercado,Mercadona,1594.86,2025-12-05 18:15:00
+d882c4a0-164b-4d75-ae05-7ddf4f40ae3c,-15.50,ocio,Cinesa,1579.36,2025-12-05 20:00:00
+a16c23b7-a886-42b8-b659-d302a2606724,-2.50,restaurante,La Abadia,1576.86,2025-12-05 23:00:00
+adf62358-1510-400a-a5e4-8fd4042e02b6,-3.00,restaurante,La Abadia,1573.86,2025-12-05 23:25:00
+ea180164-482f-4421-8b8b-b82975850c55,-25.00,transporte,Cabify,1548.86,2025-12-06 02:00:00
+4a6f8e11-0f70-4106-b5d8-5a14edf4344e,-10.20,transporte,Recarga transporte público Madrid,1538.66,2025-12-06 07:00:00
+517585ce-9e8b-41e6-b076-59958a1a38f2,-4.99,ocio,Spotify,1533.67,2025-12-06 10:00:00
+18501bc5-7c9f-4cc8-87b7-3211263c20f1,-20.00,ocio,Karting,1513.67,2025-12-06 12:00:00
+be39b33c-1396-4586-8482-dd23d86e8584,-4.00,restaurante,Cervecería L'Europe,1509.67,2025-12-06 12:00:00
+1fbfa4c5-7b7a-4967-98a5-261b8024be1b,-2.50,restaurante,Cervecería L'Europe,1507.17,2025-12-06 12:00:00
+91ddf677-3d0c-470d-bf72-d2e80573f74c,-20.00,ocio,Karting,1487.17,2025-12-06 12:15:00
+b5c59340-d5ec-455f-94d0-e4fcff7fe614,-2.50,restaurante,Cervecería L'Europe,1484.67,2025-12-06 12:15:00
+756bc180-04b1-4ae9-a96d-5200db0bd48a,-2.50,restaurante,Cervecería L'Europe,1482.17,2025-12-06 12:15:00
+74d86665-7a67-4fb2-b609-35d6bca816aa,-2.50,restaurante,Cervecería L'Europe,1479.67,2025-12-06 12:30:00
+cc6bf9ab-c587-44ab-826e-8610e199484f,-3.50,restaurante,Cervecería L'Europe,1476.17,2025-12-06 12:45:00
+921d21af-3f17-442c-adf2-4bf1f75eb7b1,-40.00,restaurante,Taberna El Sur,1436.17,2025-12-06 14:30:00
+3517a3a6-90e4-41d6-8e1e-c157bf86a813,-39.00,restaurante,Sala de Despiece,1397.17,2025-12-06 20:15:00
+546f88da-624f-43e3-929a-cb56ffc46852,-4.00,restaurante,Cervecissimus,1393.17,2025-12-06 23:00:00
+35ea9aee-ffe9-471d-bb3a-78e08dd4382f,-3.50,restaurante,Cervecissimus,1389.67,2025-12-06 23:25:00
+858411b9-d407-45f3-ad44-547f173a7bfb,-3.50,restaurante,Cervecissimus,1386.17,2025-12-07 00:00:00
+97d3bca1-90a3-4265-819e-c401ebcda796,-4.00,restaurante,Cervecissimus,1382.17,2025-12-07 00:25:00
+7e64ca51-3981-47d7-9a42-83b1e0dfaf62,-2.50,restaurante,Cervecissimus,1379.67,2025-12-07 01:00:00
+9cffa0c0-5afe-476c-92d0-e9830475b821,-26.00,transporte,Cabify,1353.67,2025-12-07 03:00:00
+deb1a98e-7c12-4cd0-aa08-758f575fec43,-2.50,restaurante,Cervecería L'Europe,1351.17,2025-12-07 12:00:00
+29a68786-7252-45d5-bf50-4afc64e08126,-3.00,restaurante,Cervecería L'Europe,1348.17,2025-12-07 12:00:00
+10191e22-3752-4a43-8a6f-24a4c01ee95d,-4.00,restaurante,Cervecería L'Europe,1344.17,2025-12-07 12:15:00
+c873977f-6415-41dd-adbc-af72b75fcb48,-2.50,restaurante,Cervecería L'Europe,1341.67,2025-12-07 12:15:00
+7c01e052-ed9f-4eed-8871-7df2a6395c10,-4.00,restaurante,Cervecería L'Europe,1337.67,2025-12-07 12:30:00
+96fccc9a-38ff-4d37-b96d-06260d5a7057,-3.00,restaurante,Cervecería L'Europe,1334.67,2025-12-07 12:45:00
+7ced6917-3eb6-4745-a71b-92ee60d4d1e8,-2.50,restaurante,La Abadia,1332.17,2025-12-07 23:00:00
+0b5eec50-5f45-4006-a7e8-a5984130b8dd,-2.50,restaurante,La Abadia,1329.67,2025-12-07 23:25:00
+fbee2470-bba2-47aa-a383-f03271ff8b05,-24.00,transporte,Cabify,1305.67,2025-12-08 01:00:00
+e788e2d0-d4d9-4fb0-95af-1a53946b80dd,-2.50,restaurante,Café Central,1303.17,2025-12-08 08:00:00
+4183b667-d3cf-479b-8a6e-f46594038eee,-2.50,restaurante,El Riojano,1300.67,2025-12-08 15:30:00
+929f11d7-5f6f-449e-bd35-dad8b73b434f,-1.50,restaurante,Bar La Peña,1299.17,2025-12-09 08:15:00
+cb7ebc57-8a1d-4327-8682-c20c04e372ef,-2.00,restaurante,Pastelería Mallorca,1297.17,2025-12-09 15:15:00
+88f97671-aca2-4a92-89e8-4fc47245b06d,-86.00,supermercado,Carrefour,1211.17,2025-12-09 18:00:00
+4ce53944-0b7c-48f0-a386-4b6bfb92c3c1,-1.50,restaurante,Café Central,1209.67,2025-12-10 08:00:00
+5f36b2cb-edbd-4a99-8397-d996924648fb,-4.00,restaurante,Pastelería Mallorca,1205.67,2025-12-10 09:00:00
+110dc390-c097-4846-8598-d29c18548231,-16.00,restaurante,Juancho's BBQ,1189.67,2025-12-10 14:00:00
+864731e2-e0e0-4c59-8ea8-3ca7c8b02492,-1.50,restaurante,Cafetería Bruin,1188.17,2025-12-10 15:45:00
+5c55f017-aefb-4fde-8b38-c98d20fdce00,-2.50,restaurante,La Mallorquina,1185.67,2025-12-11 09:15:00
+4276f745-b40b-4918-a4c8-81240eba97d0,-2.00,restaurante,Café Comercial,1183.67,2025-12-11 15:00:00
+13bd3d18-ae10-409a-83e8-c2bdd10f5da5,-46.00,supermercado,Alcampo,1137.67,2025-12-11 19:30:00
+cdcab59b-f3e9-4236-bbc0-bed0bde155fc,-2.50,restaurante,El Riojano,1135.17,2025-12-12 08:00:00
+2cbf2cfa-01c9-4cd3-afc5-6d75de59810d,-2.50,restaurante,Cervecería Estrella,1132.67,2025-12-12 12:00:00
+25373862-020e-482a-97b0-0a0dd3a3f2c7,-3.50,restaurante,Cervecería Estrella,1129.17,2025-12-12 12:00:00
+f41a7c42-9644-4023-86e7-6bc2a4cd6bb4,-2.50,restaurante,Cervecería Estrella,1126.67,2025-12-12 12:15:00
+a3023991-b91f-4d84-a5cd-2726d3572c99,-3.50,restaurante,Cervecería Estrella,1123.17,2025-12-12 12:30:00
+69fd38e7-fdae-4da4-974c-ebdf00c2641e,-3.00,restaurante,Cervecería Estrella,1120.17,2025-12-12 12:45:00
+1dbf625e-0837-43cb-a773-e9aff203f74f,-2.50,restaurante,Cafetería Manila,1117.67,2025-12-12 15:00:00
+54b3f3bd-50b3-4f20-81cd-d05216ceeaeb,-40.00,cajero,Retirada en cajero automático,1077.67,2025-12-12 16:00:00
+a9b52ca2-ce0c-4f87-8fb3-639c97d92d66,-4.00,restaurante,Cervecissimus,1073.67,2025-12-13 12:00:00
+eb9cf11a-7647-4d59-b783-9ea797890c5d,-2.50,restaurante,Cervecissimus,1071.17,2025-12-13 12:00:00
+0467b567-b5a2-4aec-8fb2-6ae748a8c864,-3.00,restaurante,Cervecissimus,1068.17,2025-12-13 12:15:00
+369f8cb5-9f1b-40d8-885b-fe4b71e1895d,-2.50,restaurante,Cervecissimus,1065.67,2025-12-13 12:15:00
+9f54ad8c-4523-4b5d-9b63-b9cc2320e458,-4.00,restaurante,Cervecissimus,1061.67,2025-12-13 12:30:00
+4369df64-bdd9-4c67-a00d-cc686ff63671,-2.50,restaurante,Cervecissimus,1059.17,2025-12-13 12:45:00
+08a7bfd1-603b-4966-b612-2728346cdaa2,-40.00,restaurante,Restaurante Botin,1019.17,2025-12-13 13:15:00
+59f01b30-a491-4872-a0e7-d3dfdd5fe0be,-2.50,restaurante,Cervecería L'Europe,1016.67,2025-12-13 17:00:00
+34d2d1fa-ddeb-43ad-b796-0d1978cd3a1,-2.50,restaurante,Cervecería L'Europe,1014.17,2025-12-13 17:00:00
+ba2ebc54-3e97-4fcc-8266-69129a61a18a,-3.00,restaurante,Cervecería L'Europe,1011.17,2025-12-13 17:20:00
+2e30cdc4-73b0-42ae-a0b7-33e719d2dd7d,-3.00,restaurante,Cervecería L'Europe,1008.17,2025-12-13 17:40:00
+294a60dc-ea20-4a72-8837-84a8a89c04f7,-2.50,restaurante,Bodega La Ardosa,1005.67,2025-12-14 12:00:00
+e2a426ae-6ffd-48ba-a03c-b47ef35b08f6,-4.00,restaurante,Bodega La Ardosa,1001.67,2025-12-14 12:00:00
+fe2236ef-e30e-469e-b6b9-5fc6f8cd4cc2,-3.00,restaurante,Bodega La Ardosa,998.67,2025-12-14 12:15:00
+2e788092-c9a4-4ff5-afdf-8be73f6c2ff9,-3.50,restaurante,Bodega La Ardosa,995.17,2025-12-14 12:30:00
+ddbc28fb-3b95-44ea-a57d-6f32cfd77a8c,-3.00,restaurante,Bodega La Ardosa,992.17,2025-12-14 12:45:00
+361f8928-9076-4394-ad60-0cdc095c44b2,-46.00,restaurante,Taberna El Sur,946.17,2025-12-14 21:30:00
+391ba14b-11ca-44d2-8317-e5644418db48,-3.50,restaurante,Beer House,942.67,2025-12-14 23:00:00
+5adabb28-fddb-4abf-8fee-6a7c6a4af2ae,-2.50,restaurante,Beer House,940.17,2025-12-14 23:25:00
+e489951d-2197-4468-98b5-ef67138065b7,-18.00,transporte,Cabify,922.17,2025-12-15 01:00:00
+ac96a1e6-56e3-4979-861c-9fcf0bcadd4e,-2.00,restaurante,Café Melo's,920.17,2025-12-15 08:15:00
+7f0cf98c-5874-4914-a722-f46e6eba21f9,-2.50,restaurante,El Riojano,917.67,2025-12-15 15:00:00
+02c3ec95-5264-4a6d-9897-90f3ae0a2f63,-2.50,restaurante,Cafetería Bruin,915.17,2025-12-16 08:30:00
+8e5310d1-4e99-48e7-be43-a7e5f8d82a85,-55.00,transporte,Cepsa M-30 Norte,860.17,2025-12-16 10:30:00
+32a2e5f0-882d-4ea4-a540-8329846785d0,-50.00,cajero,Retirada en cajero automático,810.17,2025-12-16 14:00:00
+b2d57efa-1647-4472-bdfc-7340c4acdbf1,-2.50,restaurante,Café Gijón,807.67,2025-12-16 15:45:00
+99ea8fb1-2dd7-4077-8f42-645f8064b0da,-4.00,restaurante,Cafetería Bruin,803.67,2025-12-17 09:00:00
+77957664-684a-4907-b33a-8a1166283f33,-2.00,restaurante,Cafetería Bruin,801.67,2025-12-17 09:15:00
+86c7382f-0abd-44bb-9280-b2be9ebf3b46,-16.00,restaurante,Juancho's BBQ,785.67,2025-12-17 14:30:00
+eddf2ca4-b156-43a2-99fa-c3cc53604a52,-40.00,transferencia,Transferencia bancaria,745.67,2025-12-17 15:00:00
+95f01084-0015-4833-a327-be16058fcbe6,-2.00,restaurante,Cafetería Bruin,743.67,2025-12-17 15:45:00
+c0062ca5-121c-45fa-9904-36564782211a,-2.50,restaurante,Pastelería Mallorca,741.17,2025-12-18 08:30:00
+5f03ad96-3405-43a8-b22c-f49ad094a72d,-2.50,restaurante,Cafetería Manila,738.67,2025-12-18 15:45:00
+fea62af8-0a8b-4972-afcc-191859d38bc6,-2.00,restaurante,Café de Oriente,736.67,2025-12-19 09:30:00
+76cba95f-f316-46a5-b64b-e9a0e12b63a0,-4.00,restaurante,Fábrica Excepcional,732.67,2025-12-19 12:00:00
+cc8608e5-7077-47db-b3c3-f09be963fc0b,-4.00,restaurante,Fábrica Excepcional,728.67,2025-12-19 12:00:00
+35f02530-1f3b-4596-a9c7-84d103fc739d,-2.50,restaurante,Fábrica Excepcional,726.17,2025-12-19 12:15:00
+569f8db8-3e8d-4af4-bd0a-8e7a5773921d,-3.00,restaurante,Fábrica Excepcional,723.17,2025-12-19 12:30:00
+9f3658f1-1e9f-413b-8850-16fa1bd2a9e7,-3.00,restaurante,Fábrica Excepcional,720.17,2025-12-19 12:45:00
+fe1ceb07-25dc-4802-9c23-9cede7c0422b,-2.00,restaurante,Pastelería Mallorca,718.17,2025-12-19 15:30:00
+959b1b93-cfe1-4630-ae75-f62b60641e76,-3.00,restaurante,Bodega La Ardosa,715.17,2025-12-19 17:00:00
+886c31f7-032f-490f-b45f-bd34d3384890,-3.50,restaurante,Bodega La Ardosa,711.67,2025-12-19 17:20:00
+4a87c160-f84c-42af-9051-011cb1e5d984,-4.00,restaurante,Cervecería L'Europe,707.67,2025-12-20 12:00:00
+b78a66b4-be0d-43d9-ae42-4f711c2cd624,-3.00,restaurante,Cervecería L'Europe,704.67,2025-12-20 12:00:00
+b10a9e65-c3e2-4cd4-8f93-7eac5ba84503,-4.00,restaurante,Cervecería L'Europe,700.67,2025-12-20 12:15:00
+616a9df0-c3e8-4c88-9af7-8519b6dc12b8,-3.50,restaurante,Cervecería L'Europe,697.17,2025-12-20 12:15:00
+316bb42d-e6cd-4000-b9ca-95e47ecb76c1,-3.00,restaurante,Cervecería L'Europe,694.17,2025-12-20 12:30:00
+fc337558-0930-4782-932a-6778a631f482,-2.50,restaurante,Cervecería L'Europe,691.67,2025-12-20 12:45:00
+e32c41fb-eabd-4aaa-8d70-86de17ce522a,-27.00,restaurante,Taberna El Sur,664.67,2025-12-20 14:00:00
+bacde063-9390-4737-aa6c-ae4075971a2c,-20.00,ocio,Karting,644.67,2025-12-21 12:00:00
+fb378b7d-42ba-4f0e-bc59-1ce5d837f40d,-20.00,ocio,Karting,624.67,2025-12-21 12:15:00
+88d1b9c9-2a3d-45a2-a7be-873908e4c95a,-20.00,ocio,Karting,604.67,2025-12-21 12:30:00
+784ee546-aa00-4eb7-86b1-586fa7f35d13,-26.00,restaurante,La Trainera,578.67,2025-12-21 14:30:00
+e12955e6-8973-4c96-8cbb-476b28d0eb06,-2.00,restaurante,La Mallorquina,576.67,2025-12-22 08:30:00
+6acce102-605f-43ca-98b5-c6282156465e,-2.00,restaurante,Café de Oriente,574.67,2025-12-22 15:00:00
+b5cb07e3-0052-4d37-acdc-6e43d5225431,-2.00,restaurante,La Mallorquina,572.67,2025-12-23 08:45:00
+3f7de461-c025-4541-9cab-cacc9cabd5eb,-2.00,restaurante,Bar El Anciano,570.67,2025-12-23 15:15:00
+7d5ee8df-247b-4176-b21f-a62651c0c711,-4.00,restaurante,Café Comercial,566.67,2025-12-24 08:00:00
+08a7c4d8-70b3-4388-9111-4a0a325f9758,-1.50,restaurante,Pastelería Mallorca,565.17,2025-12-24 09:45:00
+2c484482-0d9a-4874-a7e5-e02d7e0e35ff,-15.00,restaurante,Juancho's BBQ,550.17,2025-12-24 13:15:00
+d1f458e2-b7ad-41f8-8fba-42ff53822de7,-1.50,restaurante,Café Melo's,548.67,2025-12-24 15:00:00
+47d5d797-855b-48d0-91ee-13173e564d14,-43.00,supermercado,Carrefour,505.67,2025-12-24 19:00:00
+c10c205c-d3e1-46e4-9014-ea8782d4324a,-2.00,restaurante,Pastelería Mallorca,503.67,2025-12-25 08:30:00
+11173bc1-603b-4b80-9572-4e4961196e18,-12.99,ocio,DAZN,490.68,2025-12-25 10:00:00
+85c23de8-6d2a-4c8d-931c-35e5cdf97bd6,-2.50,restaurante,Bar La Peña,488.18,2025-12-25 15:30:00
+03e1512a-54ce-4b4c-a7c3-b5bebbf25c26,-2.00,restaurante,La Mallorquina,486.18,2025-12-26 09:00:00
+9ec6ec9a-5398-4cc3-b899-07e7d720bb66,-1.50,restaurante,Café Gijón,484.68,2025-12-26 15:45:00
+6010a41b-8857-4424-8327-05ddba39074a,-10.20,transporte,Recarga transporte público Madrid,474.48,2025-12-27 08:15:00
+b0d9934e-e22e-4256-b224-97442256ae6e,2500.00,nomina,Nómina mensual,2974.48,2025-12-28 09:00:00
+2650cb43-56f8-45cf-89b7-a81a2cc7df1a,-20.00,ocio,Karting,2954.48,2025-12-28 12:00:00
+ea0443e8-259c-416e-8526-8b251c0ba349,-20.00,ocio,Karting,2934.48,2025-12-28 12:15:00
+a3ceb5e3-7f12-4fb9-a37f-9e844beaadc1,-1.50,restaurante,Café Gijón,2932.98,2025-12-29 08:00:00
+27dd7935-121e-439a-8dbd-42a28e14e174,-2.50,restaurante,Bar La Peña,2930.48,2025-12-29 15:15:00
+e9dfb6bb-9706-483b-b6df-117156bed630,-45.00,supermercado,Mercadona,2885.48,2025-12-29 19:30:00
+03389498-c812-49ec-b4ac-2b4c961a545b,-2.00,restaurante,Café Gijón,2883.48,2025-12-30 08:30:00
+763bee07-2006-46a0-a1cc-1ffb93cc7067,-1.50,restaurante,Café Central,2881.98,2025-12-30 15:30:00
+2f0ff125-33f4-400b-8cfa-9133e9995796,-2.00,restaurante,Pastelería Mallorca,2879.98,2025-12-31 08:00:00
+e39b8938-7f4f-40ec-94e1-132a48f60cd4,-4.00,restaurante,Cafetería Manila,2875.98,2025-12-31 09:00:00
+bd55dadf-863e-4a42-a117-c94fa1a6c8ef,-16.00,restaurante,Juancho's BBQ,2859.98,2025-12-31 14:15:00
+3d159859-d49e-4267-a194-e3d195fcffb0,-2.50,restaurante,Cafetería Manila,2857.48,2025-12-31 15:30:00
+5966996e-7124-4566-91d6-48d96abbf4db,-49.00,supermercado,Carrefour,2808.48,2025-12-31 18:15:00
+33baba5d-100c-4ec7-9c03-87803d1b51f1,-800.00,hipoteca,Cuota hipoteca,2008.48,2026-01-01 08:30:00
+bbb73caa-97ac-48e1-8f94-6b2b7b95dc34,-2.00,restaurante,Café Comercial,2006.48,2026-01-01 09:00:00
+69efd747-4b80-4955-a53e-f7ec6dfecf28,-1.50,restaurante,Cafetería Bruin,2004.98,2026-01-01 15:15:00
+e5f8f144-f314-4b71-afe8-d9699f96bef0,-2.00,restaurante,Cafetería Manila,2002.98,2026-01-02 09:00:00
+2b7063d9-af85-42fb-84e2-c3a461a83b9c,-2.50,restaurante,Beer House,2000.48,2026-01-02 12:00:00
+9a21ef42-3a49-4259-9c47-b6e9fcb42aee,-4.00,restaurante,Beer House,1996.48,2026-01-02 12:00:00
+f3779f41-d465-44f5-be00-e022e4e89d2d,-4.00,restaurante,Beer House,1992.48,2026-01-02 12:15:00
+13481af7-5e49-4bbc-b758-b99b4c6a2b95,-2.50,restaurante,Beer House,1989.98,2026-01-02 12:15:00
+dd5c263c-580e-4958-95c3-6134e905d2c4,-3.50,restaurante,Beer House,1986.48,2026-01-02 12:30:00
+79699f63-ecb8-470b-9ff9-7f6efec30f7b,-4.00,restaurante,Beer House,1982.48,2026-01-02 12:45:00
+d024b103-c963-4d59-8393-e2213f9dfde2,-2.50,restaurante,Bar El Anciano,1979.98,2026-01-02 15:45:00
+224ac842-fa12-4d62-abbe-90a48f92f49a,-48.00,supermercado,Carrefour,1931.98,2026-01-02 18:00:00
+04ee7507-f2fe-4652-ba39-5358af5a9c5c,-4.00,restaurante,El Caño,1927.98,2026-01-02 23:00:00
+97d4910b-11b6-4dcc-b5fe-17b4651b4395,-3.50,restaurante,El Caño,1924.48,2026-01-02 23:25:00
+6cfc6093-3606-48f3-b72f-b7c113d8f8af,-3.50,restaurante,El Caño,1920.98,2026-01-03 00:00:00
+65488307-b01c-4854-8929-e48adba5824d,-24.00,transporte,Cabify,1896.98,2026-01-03 02:00:00
+6e5c7f9b-98f3-4e1a-a200-c02edc36ecba,-20.00,ocio,Netflix,1876.98,2026-01-03 10:00:00
+f6e18714-33d4-4c59-b630-bdebb6f4cb93,-10.00,ocio,Amazon Prime,1866.98,2026-01-03 10:05:00
+d05d87ce-3184-459d-8ac5-6fbab0c5b41f,-3.00,restaurante,La Abadia,1863.98,2026-01-03 12:00:00
+758f6503-c696-43fd-a324-01d5c2dd7287,-4.00,restaurante,La Abadia,1859.98,2026-01-03 12:00:00
+3519b55c-0eb3-4402-88e5-19e5c5862cd5,-3.00,restaurante,La Abadia,1856.98,2026-01-03 12:15:00
+edd898a8-7ace-45a4-b845-b48c5c1210ed,-3.00,restaurante,La Abadia,1853.98,2026-01-03 12:30:00
+fa3c874b-aa32-4d88-b92c-b88614a3a48e,-4.00,restaurante,La Abadia,1849.98,2026-01-03 12:45:00
+9cf7b65e-8544-4a87-af22-d9dca605935a,-37.00,restaurante,Dantxari,1812.98,2026-01-03 14:30:00
+18040acf-4ddd-48e2-a1ca-fed30397f3be,-48.00,restaurante,Dantxari,1764.98,2026-01-03 21:30:00
+9d4220a4-4690-4df3-a09d-633fd1b66e40,-20.00,ocio,Karting,1744.98,2026-01-04 12:00:00
+303aa65b-6a54-4860-9f95-4ad2c5eb3a5b,-3.00,restaurante,Brew Wild,1741.98,2026-01-04 12:00:00
+9cf17213-e2a8-4d15-b22f-edb2e436f113,-20.00,ocio,Karting,1721.98,2026-01-04 12:15:00
+270e0c5e-13e1-4e13-98b9-44e659ec4b7b,-4.00,restaurante,Brew Wild,1717.98,2026-01-04 12:15:00
+75c8de12-7a8a-411d-b5ce-5cb71aa286eb,-20.00,ocio,Karting,1697.98,2026-01-04 12:30:00
+9889a0ec-74cd-4cc7-82db-773d1cd24325,-3.50,restaurante,Brew Wild,1694.48,2026-01-04 12:30:00
+8d6efac0-079c-4c18-a1da-4404ec5ec4d7,-3.50,restaurante,Cervecissimus,1690.98,2026-01-04 17:00:00
+5d0ceaba-af27-4d7d-95b4-8f66faef8e48,-3.00,restaurante,Cervecissimus,1687.98,2026-01-04 17:20:00
+ede53e2c-221a-4c8c-8586-c73c372a2a94,-3.50,restaurante,Cervecissimus,1684.48,2026-01-04 17:40:00
+0d32aec0-4514-4fd1-b10b-79039cb49e4f,-43.00,restaurante,La Trainera,1641.48,2026-01-04 20:00:00
+bf22959a-7896-4e58-9d2a-9ab64bac1266,-1.50,restaurante,Bar La Peña,1639.98,2026-01-05 09:30:00
+fd9d77d9-e737-454a-ad8d-7b69a2bc30e9,-1.50,restaurante,Cafetería Bruin,1638.48,2026-01-05 15:45:00
+d6c3f35e-094b-4ae6-883e-467697235371,-10.20,transporte,Recarga transporte público Madrid,1628.28,2026-01-06 07:30:00
+4276b55d-9e67-49a7-a1f8-4aaba4823a47,-1.50,restaurante,Café Central,1626.78,2026-01-06 09:45:00
+faf45343-fec2-41b0-bd34-11741b2a1bed,-4.99,ocio,Spotify,1621.79,2026-01-06 10:00:00
+3a094f2f-e17b-46de-beb1-e84b7e5c36f2,-1.50,restaurante,Café de Oriente,1620.29,2026-01-06 15:15:00
+a360fe42-9a82-4352-9339-e5dd1be6b023,-4.00,restaurante,Café Central,1616.29,2026-01-07 08:00:00
+a6b56c61-7e19-4274-bfb2-e8de33132bee,-2.00,restaurante,Café Gijón,1614.29,2026-01-07 09:45:00
+a45fc3f9-9546-4794-9f5f-fa37d7e95d85,-60.00,transporte,Galp Vallecas,1554.29,2026-01-07 10:30:00
+0b915a20-5391-4828-b57d-539b49717887,-20.00,restaurante,Juancho's BBQ,1534.29,2026-01-07 14:00:00
+17fdd602-2117-4c50-8371-3555f9a237dd,-1.50,restaurante,Cafetería Manila,1532.79,2026-01-07 15:45:00
+305c11ff-18cf-4680-932a-f56b44bcebcc,-82.00,supermercado,Carrefour,1450.79,2026-01-07 18:15:00
+2565d88b-9624-456c-84af-e07596dc36ed,-2.50,restaurante,Cafetería Bruin,1448.29,2026-01-08 09:30:00
+02397ea3-6a6f-4f36-a31b-126f4e9312cd,-60.00,cajero,Retirada en cajero automático,1388.29,2026-01-08 11:00:00
+9be7c0df-9161-48ad-84c2-fddb567f780b,-1.50,restaurante,Café Gijón,1386.79,2026-01-08 15:00:00
+36ea17dc-986f-4ed2-af2e-13e730b40353,-1.50,restaurante,Bar El Anciano,1385.29,2026-01-09 09:15:00
+04c3ce89-d221-40ef-837c-7b95aed8d2a5,-4.00,restaurante,Bodega La Ardosa,1381.29,2026-01-09 12:00:00
+c786804b-691b-4f1d-aa77-3d84fbc25319,-4.00,restaurante,Bodega La Ardosa,1377.29,2026-01-09 12:00:00
+45265f9f-09f0-45e2-a4a8-52457620d571,-3.00,restaurante,Bodega La Ardosa,1374.29,2026-01-09 12:15:00
+b87abced-50ce-468f-bcaf-488da5b015be,-2.50,restaurante,Bodega La Ardosa,1371.79,2026-01-09 12:30:00
+3a49455c-3cad-49c1-bacb-98dc6ef6e2c5,-2.50,restaurante,Bodega La Ardosa,1369.29,2026-01-09 12:45:00
+d7f62faf-365b-4bf5-98a9-971c95ab5e14,-33.00,restaurante,Casa Mariano,1336.29,2026-01-09 13:00:00
+76796939-e511-4a7c-b615-66032b0dab89,-1.50,restaurante,La Mallorquina,1334.79,2026-01-09 15:30:00
+2ee8c031-0ff3-40c4-9368-9a068c233655,-3.00,restaurante,Bodega La Ardosa,1331.79,2026-01-10 12:00:00
+8bfe222f-9960-46b6-9d19-4c4c89da0d16,-3.00,restaurante,Bodega La Ardosa,1328.79,2026-01-10 12:00:00
+663f56a2-3d5a-4067-889c-fcd65d314878,-2.50,restaurante,Bodega La Ardosa,1326.29,2026-01-10 12:15:00
+c2ab8fe6-7ac0-404d-b30f-5e39174370f7,-4.00,restaurante,Bodega La Ardosa,1322.29,2026-01-10 12:30:00
+c5f3ef76-2333-46fb-8922-f89a6b22b9f3,-3.50,restaurante,Bodega La Ardosa,1318.79,2026-01-10 12:45:00
+7369101e-8bac-4845-8d3e-e07192326626,-40.00,restaurante,La Trainera,1278.79,2026-01-10 13:15:00
+231c2982-744a-48a2-932d-b6224e9e1be4,-2.50,restaurante,Bodega La Ardosa,1276.29,2026-01-10 17:00:00
+589e9bac-e2f3-4838-ba98-0104be24073c,-3.00,restaurante,Bodega La Ardosa,1273.29,2026-01-10 17:20:00
+cebcd4ff-25f0-4d4a-8803-81f0efe04aaa,-3.00,restaurante,Brew Wild,1270.29,2026-01-10 23:00:00
+5b933df2-b35d-4a22-9636-69e23ae513b6,-2.50,restaurante,Brew Wild,1267.79,2026-01-10 23:25:00
+8152634e-86fe-4d81-a4ee-a880e2a90047,-4.00,restaurante,Brew Wild,1263.79,2026-01-11 00:00:00
+3220e392-4a59-4903-893f-8b11b42d6767,-3.00,restaurante,Brew Wild,1260.79,2026-01-11 00:25:00
+b6aa9667-0391-4a28-bfd4-fc74add4d50d,-26.00,transporte,Cabify,1234.79,2026-01-11 01:00:00
+6ca55719-9b7b-4625-a9cf-ce5c5b8ec0c5,-4.00,restaurante,La Taverna,1230.79,2026-01-11 12:00:00
+219b1b87-4c82-4ee2-bdc7-601e1242ea77,-4.00,restaurante,La Taverna,1226.79,2026-01-11 12:00:00
+dc8e735e-e35e-40ec-b296-5758d1747100,-2.50,restaurante,La Taverna,1224.29,2026-01-11 12:15:00
+3dd790a3-b452-4e2a-a547-e9f87b7396a5,-2.50,restaurante,La Taverna,1221.79,2026-01-11 12:15:00
+7dc6bf28-bbe2-4890-b16d-17776cc687d5,-3.00,restaurante,La Taverna,1218.79,2026-01-11 12:30:00
+a973f8da-ec19-4e6e-a622-eb91b08b3831,-2.50,restaurante,La Taverna,1216.29,2026-01-11 12:45:00
+0eab6b3e-91af-4792-a371-b8674e5803d7,-25.00,restaurante,Taberna El Sur,1191.29,2026-01-11 13:15:00
+a66c6842-cbeb-4202-9ff9-bfef808cd2c4,-3.50,restaurante,Cervecería Estrella,1187.79,2026-01-11 17:00:00
+b9286e5b-8ad1-419-9445-bfdae6123007,-3.00,restaurante,Cervecería Estrella,1184.79,2026-01-11 17:20:00
+de4b4195-7525-4703-a33e-c617828b7b51,-3.50,restaurante,Cervecería Estrella,1181.29,2026-01-11 17:40:00
+281253b9-858c-40bb-a28a-2fc44e56b637,-39.00,restaurante,El Paraguas,1142.29,2026-01-11 21:00:00
+b82f74e1-e07a-4789-afcf-f6f9b00f7d3a,-2.00,restaurante,Café Comercial,1140.29,2026-01-12 09:00:00
+80098838-406b-47fc-a5c0-1771e6bfe502,-2.00,restaurante,Café de Oriente,1138.29,2026-01-12 15:15:00
+9ef0dc0d-f841-46ee-b073-3999b6434d67,-2.50,restaurante,La Mallorquina,1135.79,2026-01-13 09:45:00
+2533923e-541b-4901-95fa-92a1d2f67223,-50.00,cajero,Retirada en cajero automático,1085.79,2026-01-13 13:00:00
+7fd03aed-4e62-45eb-bdb5-64dc12f25c44,-2.00,restaurante,Pastelería Mallorca,1083.79,2026-01-13 15:30:00
+e9faacdb-6992-4816-ba3f-be99ceebc5c5,-81.00,supermercado,Mercadona,1002.79,2026-01-13 19:30:00
+b729dedc-d6a1-4b75-90d3-d04b8c65a820,-4.00,restaurante,La Mallorquina,998.79,2026-01-14 08:00:00
+b1d6b331-54da-4d64-8fc1-4bb1f6887d5d,-2.00,restaurante,Bar La Peña,996.79,2026-01-14 08:15:00
+6b7dd755-3520-405d-a1e6-7ba149d63878,-16.00,restaurante,Juancho's BBQ,980.79,2026-01-14 13:15:00
+f8bb0640-9139-41ea-b65e-379402e5ddb3,-2.50,restaurante,Café Central,978.29,2026-01-14 15:00:00
+7736e7ec-5184-40da-8566-b5aacc87ff6f,-70.00,supermercado,Alcampo,908.29,2026-01-14 19:00:00
+99a916f5-2be7-4475-b498-dd4e6543864c,-1.50,restaurante,Cafetería Manila,906.79,2026-01-15 08:30:00
+dc9f387f-b217-4645-8a46-6af84c383b5b,-25.00,transferencia,Transferencia bancaria,881.79,2026-01-15 11:00:00
+2c6784e7-28ab-496d-ab70-bbc11e43bd70,-2.50,restaurante,Café Comercial,879.29,2026-01-15 15:00:00
+07b272ed-b051-474b-bf67-589967553b6e,-1.50,restaurante,Café Melo's,877.79,2026-01-16 09:30:00
+16562556-d336-4c94-a573-4418cfb17332,-3.50,restaurante,Beer House,874.29,2026-01-16 12:00:00
+8a339cf7-c79e-4502-adbf-7ce79ce00f9c,-3.50,restaurante,Beer House,870.79,2026-01-16 12:15:00
+100e7ed2-b2e4-4f27-a30f-03757429abe8,-4.00,restaurante,Beer House,866.79,2026-01-16 12:30:00
+928a7fc1-80aa-4fdc-9d16-3c22d2ccd1d2,-3.00,restaurante,Beer House,863.79,2026-01-16 12:45:00
+20aef97e-d24e-4f98-94db-f0e6ebdbab67,-1.50,restaurante,Café de Oriente,862.29,2026-01-16 15:15:00
+133c0dc5-e041-4513-a653-8a00b77247dd,-25.00,transferencia,Transferencia bancaria,837.29,2026-01-17 18:00:00
+604cc42d-f169-4c44-908f-8a9877595e01,-33.00,restaurante,Taberna El Sur,804.29,2026-01-18 14:00:00
+ac1f6bf7-5e67-4b9b-8564-48221537b28f,-2.50,restaurante,Café de Oriente,801.79,2026-01-19 08:00:00
+fdc06ff5-52a7-460b-a5d4-419e6e55c204,-2.00,restaurante,Pastelería Mallorca,799.79,2026-01-19 15:00:00
+66154f0a-0ab3-425d-a047-fb8e2e51c069,-2.50,restaurante,La Mallorquina,797.29,2026-01-20 08:15:00
+497c9066-4d22-42c6-a411-25ecdafca6c0,-2.00,restaurante,Cafetería Manila,795.29,2026-01-20 15:00:00
+b4ff893f-096c-4778-8ed4-875c17700f88,-60.00,supermercado,Alcampo,735.29,2026-01-20 19:00:00
+a264804a-9cec-46b5-a3ff-c9729440d93f,-4.00,restaurante,Cafetería Bruin,731.29,2026-01-21 08:00:00
+bd8b6ca7-48e1-4e8a-9290-c843bd8a678d,-1.50,restaurante,Café Comercial,729.79,2026-01-21 08:45:00
+26e26f5e-5a7c-4a62-bfba-9b2d619225db,-55.00,transporte,Galp Vallecas,674.79,2026-01-21 11:00:00
+ed747fd7-a783-459b-93d7-8196492626d8,-15.00,restaurante,Juancho's BBQ,659.79,2026-01-21 14:00:00
+88c8588e-8f9f-4fe1-a4e7-8e0982e5295c,-2.50,restaurante,Café Central,657.29,2026-01-21 15:00:00
+1c8a1291-3b61-4129-b799-6d8bdc394598,-1.50,restaurante,Cafetería Bruin,655.79,2026-01-22 09:00:00
+8230ac7d-b6de-4cf0-bfe1-065bb1d39797,-1.50,restaurante,Café Central,654.29,2026-01-22 15:15:00
+59746093-44e0-494f-9ce1-cccd66f63aa1,-1.50,restaurante,Café de Oriente,652.79,2026-01-23 08:00:00
+7e18373b-4643-4906-ac33-f4869223b7ac,-2.50,restaurante,Café Gijón,650.29,2026-01-23 15:15:00
+59cbbaf3-d3ab-4981-ac64-a92e7d034420,-55.00,supermercado,Alcampo,595.29,2026-01-23 18:00:00
+5dd3f330-afd0-4d8a-9d45-776a4242f688,-20.00,ocio,Karting,575.29,2026-01-24 12:00:00
+18286a27-3323-4f1f-9576-30b1ba71b7a4,-20.00,ocio,Karting,555.29,2026-01-24 12:15:00
+6caa8ed4-a4cb-4386-adcc-d96e5a5bc053,-20.00,ocio,Karting,535.29,2026-01-24 12:30:00
+6d5a50e1-7871-428b-8131-e25d9ee6a8eb,-12.99,ocio,DAZN,522.30,2026-01-25 10:00:00
+0cf378ff-2e60-4a01-9960-fe7a25af07b9,-2.50,restaurante,Café Melo's,519.80,2026-01-26 09:45:00
+ba4a188a-db3e-4454-9e43-df88f18cb5b9,-2.50,restaurante,Cafetería Manila,517.30,2026-01-26 15:00:00
+955a7534-5c05-4530-ba63-3ca5da16d2a8,-2.50,restaurante,Café Melo's,514.80,2026-01-27 08:30:00
+08c07964-2df4-4915-bdfa-aa9cc4591b98,-10.20,transporte,Recarga transporte público Madrid,504.60,2026-01-27 09:00:00
+8a944076-077f-4bcc-8446-9af6059da569,-1.50,restaurante,Café Central,503.10,2026-01-27 15:15:00
+45b7bdea-3d76-490b-b7b7-d5c8c1288957,-4.00,restaurante,Bar La Peña,499.10,2026-01-28 08:00:00
+cc876e0d-a30b-4e6f-83db-415c40f45e6e,2500.00,nomina,Nómina mensual,2999.10,2026-01-28 09:00:00
+fc21cb99-33ef-424b-a323-3713555c9add,-2.00,restaurante,La Mallorquina,2997.10,2026-01-28 09:15:00
+848bfd3e-ac72-42cd-b605-2029bd54fb18,-18.00,restaurante,Juancho's BBQ,2979.10,2026-01-28 14:15:00
+5b4cd591-7762-464c-8f17-2422cc2802ba,-1.50,restaurante,La Mallorquina,2977.60,2026-01-28 15:30:00
+d03a2308-eda8-492f-b061-ce2c2f17c21f,-2.50,restaurante,Pastelería Mallorca,2975.10,2026-01-29 08:15:00
+cd9c0b1a-060c-473d-b899-08abadacc094,-1.50,restaurante,El Riojano,2973.60,2026-01-29 15:15:00
+d8ca24a7-828d-46a8-8526-f66428c6e703,-44.00,supermercado,Mercadona,2929.60,2026-01-29 18:30:00
+bdbfb3eb-9406-44e2-a7b1-d30fb26d9bad,-2.50,restaurante,Café Melo's,2927.10,2026-01-30 09:15:00
+537d926a-8393-47be-8b7a-7444a8582bd4,-2.50,restaurante,Cafetería Manila,2924.60,2026-01-30 15:00:00
+f325cc21-8136-4291-a836-4fc7c39b60f2,-20.00,ocio,Karting,2904.60,2026-01-31 12:00:00
+400e6918-18e6-4499-adef-a20fbba290b9,-20.00,ocio,Karting,2884.60,2026-01-31 12:15:00
+70607f3b-7967-4053-bc2e-a80ba55d126d,-20.00,ocio,Karting,2864.60,2026-01-31 12:30:00
+9834b6a7-2fe6-43b0-8d36-15809049bb9a,-800.00,hipoteca,Cuota hipoteca,2064.60,2026-02-01 08:30:00
+73bebbbd-59f9-4a15-a8aa-5e135ec524d5,-1.50,restaurante,La Mallorquina,2063.10,2026-02-02 09:15:00
+7bb53fbf-b951-41be-8692-11ce47653b85,-2.50,restaurante,Cafetería Manila,2060.60,2026-02-02 15:30:00
+13822be8-349a-4a83-b2df-9ca634938fae,-2.00,restaurante,Bar El Anciano,2058.60,2026-02-03 09:15:00
+169b8a31-c8d7-4c3a-9fc7-3d6fb948ee89,-20.00,ocio,Netflix,2038.60,2026-02-03 10:00:00
+e75e46d6-5338-44bf-8b8b-c90ed18e5b3a,-10.00,ocio,Amazon Prime,2028.60,2026-02-03 10:05:00
+673b603f-ef9c-4a31-b766-cce9b70dd4d0,-1.50,restaurante,Bar La Peña,2027.10,2026-02-03 15:15:00
+4bd5168c-77af-49fa-8d78-859335033a47,-60.00,cajero,Retirada en cajero automático,1967.10,2026-02-03 17:00:00
+4c19a7df-2202-40b7-b2a6-778cd0ad180c,-4.00,restaurante,Café de Oriente,1963.10,2026-02-04 08:00:00
+d767abf1-0fb8-4f06-ab73-5f75c4a4ecc8,-2.00,restaurante,Bar El Anciano,1961.10,2026-02-04 08:15:00
+c0abbfef-3a61-403a-88e7-e478858be988,-65.00,transporte,Cepsa Getafe,1896.10,2026-02-04 11:15:00
+38d2e266-e17e-4611-bfb1-872e70febe55,-15.00,restaurante,Juancho's BBQ,1881.10,2026-02-04 13:00:00
+0d76d0c3-190d-4d07-a40c-0a5278413e61,-1.50,restaurante,Café Central,1879.60,2026-02-04 15:00:00
+e232df83-f5d7-4ff7-99c0-44ec2dc5d3d8,-43.00,supermercado,Alcampo,1836.60,2026-02-04 18:15:00
+9426ba5f-a5d0-42cf-85f7-3ad78cd2c78c,-10.20,transporte,Recarga transporte público Madrid,1826.40,2026-02-05 08:30:00
+aa40c3f4-34ea-4c9c-9bda-1696f4c2563f,-2.50,restaurante,La Mallorquina,1823.90,2026-02-05 09:30:00
+498db4b0-d916-43c4-8eef-b4497aafc11e,-2.00,restaurante,Café Comercial,1821.90,2026-02-05 15:15:00
+d36134d5-61ab-4501-9dfc-f2e7396919bf,-1.50,restaurante,Cafetería Bruin,1820.40,2026-02-06 08:00:00
+9ede7516-6568-40a7-a618-e71df53e3e14,-4.99,ocio,Spotify,1815.41,2026-02-06 10:00:00
+0e0a8a0f-3964-40ce-ab0c-6fcd1c7a8423,-2.50,restaurante,Beer House,1812.91,2026-02-06 12:00:00
+fd094527-3643-424d-ab6a-970c120f3176,-2.50,restaurante,Beer House,1810.41,2026-02-06 12:00:00
+cc75236c-41b0-4ac9-bbee-4014a258f058,-2.50,restaurante,Beer House,1807.91,2026-02-06 12:15:00
+e93bc0d4-5aee-4b38-b19d-8acacb6d9c72,-2.50,restaurante,Beer House,1805.41,2026-02-06 12:30:00
+622d229c-57b2-438a-bd76-242bb9e1b374,-4.00,restaurante,Beer House,1801.41,2026-02-06 12:45:00
+9cbc790a-5880-4bcf-913a-22d3f79b33c5,-35.00,restaurante,Casa Mariano,1766.41,2026-02-06 13:30:00
+24301582-2b63-466f-9b7f-6bc909d79416,-1.50,restaurante,La Mallorquina,1764.91,2026-02-06 15:00:00
+c337307d-b5d2-441f-af1f-c43dc2f07d2b,-3.00,restaurante,Beer House,1761.91,2026-02-06 23:00:00
+ab7b4d28-20bb-4540-9aa8-70c8ab07cb8e,-2.50,restaurante,Beer House,1759.41,2026-02-06 23:25:00
+e83d1f2e-3f80-454b-931c-bed14572134b,-3.50,restaurante,Beer House,1755.91,2026-02-07 00:00:00
+1d0b8531-d5b8-416a-9efa-32aa68d7e686,-3.50,restaurante,Beer House,1752.41,2026-02-07 00:25:00
+f3c09513-072a-46aa-8b75-1f896c826b8c,-4.00,restaurante,Beer House,1748.41,2026-02-07 01:00:00
+7dc5b14d-e577-4774-be5f-513f0e62a119,-24.00,transporte,Cabify,1724.41,2026-02-07 01:00:00
+30012b8d-d1ed-4766-8592-45ed10641aeb,-20.00,ocio,Karting,1704.41,2026-02-07 12:00:00
+b1877f95-8168-4b2a-bb66-5017ee06aec1,-3.50,restaurante,Cervecissimus,1700.91,2026-02-07 12:00:00
+a8236afa-3ecc-4e5f-ae24-2a931f41b458,-3.50,restaurante,Cervecissimus,1697.41,2026-02-07 12:00:00
+fd915943-a444-454a-b25a-564fe3534ec3,-20.00,ocio,Karting,1677.41,2026-02-07 12:15:00
+37fc5cf4-d301-4e14-814e-0d93e3ecb23a,-3.00,restaurante,Cervecissimus,1674.41,2026-02-07 12:15:00
+3aceed68-2b74-4ba4-8a4c-88bbb55b3142,-3.50,restaurante,Cervecissimus,1670.91,2026-02-07 12:15:00
+b537ebf4-33b1-42c0-aa30-9de4409f369e,-20.00,ocio,Karting,1650.91,2026-02-07 12:30:00
+d1e17154-044c-4c1a-a7bb-76c2ef4e97e0,-3.00,restaurante,Cervecissimus,1647.91,2026-02-07 12:30:00
+eff12eb7-7b68-4890-b74d-908306643f35,-2.50,restaurante,Cervecissimus,1645.41,2026-02-07 12:45:00
+d2a1a585-dfad-4d2a-8af8-88dde1852a35,-32.00,restaurante,Casa Mariano,1613.41,2026-02-07 13:15:00
+7ba07535-ea62-4cf5-95f6-4ae7956a8408,-3.50,restaurante,Cervecissimus,1609.91,2026-02-07 17:00:00
+d1718536-ee8a-4df4-bd1f-021494c76ff9,-3.50,restaurante,Cervecissimus,1606.41,2026-02-07 17:00:00
+fffba19d-680b-4bfa-a034-adc7d0404588,-3.50,restaurante,Cervecissimus,1602.91,2026-02-07 17:20:00
+c866abb0-376c-4332-8058-fde306c983fc,-3.50,restaurante,Cervecissimus,1599.41,2026-02-07 17:40:00
+4754132c-b7a0-479a-ab5d-bb409dc67656,-25.00,transferencia,Transferencia bancaria,1574.41,2026-02-07 18:00:00
+5eaf8872-865b-4325-92a7-c7036a72e283,-44.00,restaurante,La Casa del Abuelo,1530.41,2026-02-07 20:15:00
+5b45baa0-5957-44c8-bc8b-e7579b957a08,-4.00,restaurante,Fábrica Excepcional,1526.41,2026-02-07 23:00:00
+ab1ace36-35e5-4adf-9178-803d4d9fb0fa,-3.00,restaurante,Fábrica Excepcional,1523.41,2026-02-07 23:25:00
+fa084dff-3276-46e1-a8ff-a5fde0385169,-4.00,restaurante,Fábrica Excepcional,1519.41,2026-02-08 00:00:00
+e86c114e-f3dc-4950-8346-72ae57718195,-3.00,restaurante,Fábrica Excepcional,1516.41,2026-02-08 00:25:00
+edd317d0-ec6e-4c67-9888-ef8e2c832aeb,-21.00,transporte,Cabify,1495.41,2026-02-08 03:00:00
+2cb13414-37bd-4474-b95b-74cfcfa92b60,-4.00,restaurante,Beer House,1491.41,2026-02-08 12:00:00
+386667eb-6ecb-43f0-b028-9c3a1d313ebe,-4.00,restaurante,Beer House,1487.41,2026-02-08 12:00:00
+71ea4276-4ee1-4e0b-9957-314e53dfc788,-4.00,restaurante,Beer House,1483.41,2026-02-08 12:15:00
+39263473-fc4a-4093-bbe2-4a6a6e6d10b9,-3.50,restaurante,Beer House,1479.91,2026-02-08 12:30:00
+f6b0e85f-8043-47d6-aec8-580125dee149,-2.50,restaurante,Beer House,1477.41,2026-02-08 12:45:00
+7547f35d-41d2-44f5-bf89-c4dc34d6c1ad,-25.00,restaurante,La Trainera,1452.41,2026-02-08 13:30:00
+74956f4d-1724-4131-a586-d67ffec72100,-51.00,restaurante,StreetXO,1401.41,2026-02-08 20:00:00
+014c45f4-b9ea-4488-abd7-3b652804869b,-2.50,restaurante,La Taverna,1398.91,2026-02-08 23:00:00
+65c7d94a-e570-4e7d-8b10-69f4d0b7e893,-2.50,restaurante,La Taverna,1396.41,2026-02-08 23:25:00
+fb23e48c-d513-4477-82fc-6b8d2be4265a,-25.00,transporte,Cabify,1371.41,2026-02-09 03:00:00
+5246c9f8-eda6-4b3a-9ee3-b6885f67eca1,-2.00,restaurante,Cafetería Manila,1369.41,2026-02-09 08:45:00
+7e908ddf-16c2-41a1-9ef8-e8d4993938a7,-1.50,restaurante,Café Gijón,1367.91,2026-02-09 15:45:00
+49e16aff-64bf-4380-8c27-73821aa12ad8,-2.00,restaurante,La Mallorquina,1365.91,2026-02-10 08:00:00
+0e889f4d-f470-49db-b861-afe26db14c10,-1.50,restaurante,Cafetería Manila,1364.41,2026-02-10 15:30:00
+211d8685-8196-4db0-b184-992cbe8a2aad,-2.50,restaurante,Cafetería Bruin,1361.91,2026-02-11 08:00:00
+1ae136b9-ffaa-4fb4-abe8-ad1d1533d415,-4.00,restaurante,Cafetería Manila,1357.91,2026-02-11 08:00:00
+bc4ba9d0-ee6a-425a-9031-79b047a6f30d,-20.00,restaurante,Juancho's BBQ,1337.91,2026-02-11 13:00:00
+5ec2e1fb-ff1f-4748-9b1f-962d98a23403,-2.00,restaurante,Pastelería Mallorca,1335.91,2026-02-11 15:45:00
+1abc0c87-ae11-4acf-b43a-3ef968690035,-84.00,supermercado,Alcampo,1251.91,2026-02-11 19:30:00
+8db646df-2ceb-46d8-aefb-eb0a58e8e524,-15.50,ocio,Cinesa,1236.41,2026-02-11 21:00:00
+cface93f-21ab-43bc-aca4-874c37e1d686,-2.00,restaurante,Café de Oriente,1234.41,2026-02-12 08:00:00
+803f493e-b30d-4fff-b149-ad7fa7b0b1f0,-1.50,restaurante,El Riojano,1232.91,2026-02-12 15:30:00
+0d285be3-f1a9-44f2-a4b3-a860aca529ef,-81.00,supermercado,Mercadona,1151.91,2026-02-12 18:30:00
+b34abacb-edca-4a22-a6b8-2043456bbbab,-1.50,restaurante,Café Melo's,1150.41,2026-02-13 08:30:00
+5f954ea4-35f0-40a7-89cb-49118bd7e057,-4.00,restaurante,Bodega La Ardosa,1146.41,2026-02-13 12:00:00
+36f8acc0-d3e6-494e-b545-6696419b53d2,-3.50,restaurante,Bodega La Ardosa,1142.91,2026-02-13 12:15:00
+06c5a426-7f08-4744-b093-8b0506c4ca84,-3.50,restaurante,Bodega La Ardosa,1139.41,2026-02-13 12:30:00
+48ac998d-63b5-4578-a8dd-8d30a603688a,-2.50,restaurante,Bodega La Ardosa,1136.91,2026-02-13 12:45:00
+6bf1593b-c8d3-4ae6-878f-e9e5ade8357c,-23.00,restaurante,Restaurante Botin,1113.91,2026-02-13 13:15:00
+8410cbe7-d355-4743-ae54-82f0457a7e34,-2.00,restaurante,Cafetería Manila,1111.91,2026-02-13 15:15:00
+1893c4c0-a2ff-4956-acf7-02325459908a,-27.00,restaurante,Restaurante Botin,1084.91,2026-02-14 13:15:00
+66638427-9d24-4d9b-9d7c-3f26197067c9,-20.00,ocio,Karting,1064.91,2026-02-15 12:00:00
+391bfb51-88f4-44fb-a8b2-5a10874df7d2,-20.00,ocio,Karting,1044.91,2026-02-15 12:15:00
+19672679-3deb-45e1-8e4d-29eee5656952,-20.00,ocio,Karting,1024.91,2026-02-15 12:30:00
+73617230-544a-4868-903c-5a775553a3f4,-2.00,restaurante,La Mallorquina,1022.91,2026-02-16 08:30:00
+5a92f184-ab6d-4cca-9118-994a78624042,-2.50,restaurante,Pastelería Mallorca,1020.41,2026-02-16 15:00:00
+43947e29-38e9-4d8f-9bc1-104182946f9b,-2.00,restaurante,Café Comercial,1018.41,2026-02-17 09:00:00
+4747d289-ecba-4353-9fc3-d635d3ad706b,-1.50,restaurante,Café de Oriente,1016.91,2026-02-17 15:15:00
+8e80c89d-3711-4165-a11f-e6d10e71beb6,-49.00,supermercado,Alcampo,967.91,2026-02-17 18:00:00
+6fd7e7b8-d10e-44cd-9a33-d1a59617e3e4,-3.00,restaurante,Cafetería Manila,964.91,2026-02-18 08:00:00
+dc831a55-4330-45c0-8477-6afff68c2d3a,-60.00,transporte,Repsol,904.91,2026-02-18 09:00:00
+0849cc2c-6169-4da9-8f3d-93f92224949a,-2.50,restaurante,Café de Oriente,902.41,2026-02-18 09:00:00
+da9c1251-ac92-4d7a-9866-412d9c4894ae,-20.00,restaurante,Juancho's BBQ,882.41,2026-02-18 13:15:00
+23b45b9c-0753-42df-b864-ecbe9f2c825e,-2.50,restaurante,Café Gijón,879.91,2026-02-18 15:30:00
+692f9271-5f6f-4f15-bf41-7afbe3335c85,-1.50,restaurante,Café de Oriente,878.41,2026-02-19 09:15:00
+62419a2f-869a-497f-9a9e-23e0b23f1605,-1.50,restaurante,Café Gijón,876.91,2026-02-19 15:30:00
+ff697c40-ec11-4c5f-8c8f-bf0117760977,-2.50,restaurante,Cafetería Manila,874.41,2026-02-20 08:30:00
+ea041d27-87dc-4a5a-b3f3-9fc22fb68779,-2.50,restaurante,Café Melo's,871.91,2026-02-20 15:45:00
+a0912c80-4535-44bd-84a8-5162307b307c,-20.00,ocio,Karting,851.91,2026-02-22 12:00:00
+98adb1cf-42cf-4825-837b-cae8ecbf56f3,-20.00,ocio,Karting,831.91,2026-02-22 12:15:00
+b65346c3-6616-4d5a-99f4-be12ca5737dd,-20.00,ocio,Karting,811.91,2026-02-22 12:30:00
+f126b73f-ca1a-4aae-abdb-c0f5f31e7f81,-2.00,restaurante,La Mallorquina,809.91,2026-02-23 08:45:00
+3587a722-02ec-4d6c-82db-7e4e42e2c29c,-2.00,restaurante,Cafetería Bruin,807.91,2026-02-23 15:15:00
+075a2395-1b85-418b-93ea-fb0883cb7e2a,-40.00,transferencia,Transferencia bancaria,767.91,2026-02-23 19:00:00
+281751bf-abe1-43bb-8184-c5bfe11b38b7,-2.50,restaurante,Café Central,765.41,2026-02-24 08:00:00
+9e5f2cf6-c9fc-42b5-8777-a59da38fbbcf,-2.00,restaurante,Cafetería Bruin,763.41,2026-02-24 15:45:00
+6dabd644-cf4a-4998-bfde-1ac174cd3c09,-51.00,supermercado,Carrefour,712.41,2026-02-24 18:30:00
+cac65e62-db16-499f-bc40-981aa56f79c7,-4.00,restaurante,Pastelería Mallorca,708.41,2026-02-25 08:00:00
+dbfdfac7-b8cf-4f1c-97d6-fc0dcc95cd06,-1.50,restaurante,Café Gijón,706.91,2026-02-25 08:45:00
+82265784-640c-47eb-863f-41e0a77ff9d3,-12.99,ocio,DAZN,693.92,2026-02-25 10:00:00
+95c4b7fa-7bf4-4b8c-94e4-8bc17ddd9d8c,-20.00,restaurante,Juancho's BBQ,673.92,2026-02-25 14:30:00
+92523a22-88a0-4d32-9557-b2257f33c391,-1.50,restaurante,Cafetería Manila,672.42,2026-02-25 15:15:00
+ec6330f2-664e-4ded-9d6a-f33d74e0a094,-1.50,restaurante,El Riojano,670.92,2026-02-26 08:00:00
+c2355aba-000f-4a4c-ae34-a351422bba45,-10.20,transporte,Recarga transporte público Madrid,660.72,2026-02-26 08:30:00
+4c86fd7c-6db2-4ec0-8cae-ca0447f15eb2,-1.50,restaurante,Café Melo's,659.22,2026-02-26 15:30:00
+adc73708-645f-4139-98c8-c7eb88c64501,-68.00,supermercado,Alcampo,591.22,2026-02-26 18:15:00
+e23007c3-6e60-4c94-b0ef-4955e8c1cb5f,-1.50,restaurante,Cafetería Manila,589.72,2026-02-27 08:15:00
+94404d1d-aace-4d20-8534-abad4d92d446,-60.00,cajero,Retirada en cajero automático,529.72,2026-02-27 12:00:00
+d2aa8cbf-e52b-4044-806c-244379d1820b,-2.00,restaurante,Café Comercial,527.72,2026-02-27 15:45:00
+9fca06d8-4b59-42ef-97d1-1e56c5eb52c3,-71.00,supermercado,Mercadona,456.72,2026-02-27 18:30:00
+5d19405c-b564-4fe9-8a59-552b4e37da73,2500.00,nomina,Nómina mensual,2956.72,2026-02-28 09:00:00
+8d1b9b41-1527-4718-8dc4-82671db5935c,-800.00,hipoteca,Cuota hipoteca,2156.72,2026-03-01 08:30:00
+030640d2-8444-498c-b45d-a385a32c6771,-2.00,restaurante,Bar El Anciano,2154.72,2026-03-02 08:00:00
+dfa7bfe3-1a4a-46c0-ab6a-80fc778e0ff0,-10.20,transporte,Recarga transporte público Madrid,2144.52,2026-03-02 08:30:00
+d915bc8e-0d82-4ec3-b878-62878cb04c4e,-1.50,restaurante,Bar La Peña,2143.02,2026-03-02 15:00:00
+306ca487-b532-40b4-998d-d909584d2548,-30.00,transferencia,Transferencia bancaria,2113.02,2026-03-02 18:00:00
+3aa1d814-dbaa-4239-b4c9-e6804a3a0698,-2.50,restaurante,Bar La Peña,2110.52,2026-03-03 08:15:00
+129188f1-bc2a-452c-8778-1bf7f337abfc,-20.00,ocio,Netflix,2090.52,2026-03-03 10:00:00
+3f16995f-31d9-48b5-9fc0-b3a2fa5845e9,-10.00,ocio,Amazon Prime,2080.52,2026-03-03 10:05:00
+e725a6be-efc4-4dec-b722-6c6bb457ae6f,-2.00,restaurante,Pastelería Mallorca,2078.52,2026-03-03 15:30:00
+47f1616e-9b73-4e56-bd12-e3d39a4262c2,-5.00,restaurante,Café Gijón,2073.52,2026-03-04 09:00:00
+ed8ce9f3-e569-4043-974a-38e96221396d,-1.50,restaurante,La Mallorquina,2072.02,2026-03-04 09:30:00
+374626fb-7992-4b9e-9c5a-752c01bc7b10,-16.00,restaurante,Juancho's BBQ,2056.02,2026-03-04 14:15:00
+8737dfc4-b3e0-47aa-901d-4bd2bd04c6a5,-2.00,restaurante,La Mallorquina,2054.02,2026-03-04 15:15:00
+b479be8b-59e5-4815-9610-9888a06c506f,-2.00,restaurante,El Riojano,2052.02,2026-03-05 08:15:00
+8f981024-b5a1-477c-885f-4d43cb57a053,-2.00,restaurante,El Riojano,2050.02,2026-03-05 15:15:00
+961d34bd-fc3d-4c22-ad68-44eb3c0cdd00,-2.50,restaurante,El Riojano,2047.52,2026-03-06 09:45:00
+a7bd6ce3-b984-4e72-9c23-f7a09db6888f,-4.99,ocio,Spotify,2042.53,2026-03-06 10:00:00
+26fe1875-4786-4238-9449-8c25ca608eeb,-60.00,transporte,BP Avenida de América,1982.53,2026-03-06 11:30:00
+dbdd9a79-8c8f-4093-b942-dcb9300b6c89,-3.50,restaurante,Fábrica Excepcional,1979.03,2026-03-06 12:00:00
+bd4976b7-1d37-4a7e-8e1d-7e5cfb840c03,-2.50,restaurante,Fábrica Excepcional,1976.53,2026-03-06 12:15:00
+c00a9158-ed60-47f6-bf23-832fc173303d,-4.00,restaurante,Fábrica Excepcional,1972.53,2026-03-06 12:30:00
+ad2ce625-520c-42cb-8b84-378af71d83ac,-38.00,restaurante,Taberna El Sur,1934.53,2026-03-06 13:00:00
+904c7c45-8351-4803-a020-cbe0aabb4990,-2.00,restaurante,Bar El Anciano,1932.53,2026-03-06 15:30:00
+ff0e65e8-f880-4857-b685-b0022ce8afaa,-85.00,supermercado,Alcampo,1847.53,2026-03-06 19:00:00
+5cbede13-164d-4287-a3ff-0fac98e44a5d,-44.00,restaurante,Restaurante Botin,1803.53,2026-03-06 21:30:00
+2fe8362e-f0ec-4086-81dd-023f00de4258,-2.50,restaurante,La Taverna,1801.03,2026-03-07 12:00:00
+f39aa9bf-479f-4530-b051-a08ba22a02ec,-3.50,restaurante,La Taverna,1797.53,2026-03-07 12:15:00
+cde7a62f-989b-4219-b700-4e77ba852212,-3.00,restaurante,La Taverna,1794.53,2026-03-07 12:30:00
+170496d0-8171-4675-926b-6b3ba484355e,-3.50,restaurante,Beer House,1791.03,2026-03-07 17:00:00
+97a9cd19-713d-4ef9-aed5-919f6f210cd,-3.50,restaurante,Beer House,1787.53,2026-03-07 17:20:00
+5a0a6c6a-0c46-4f82-ac0d-171dc2c9d685,-3.50,restaurante,Cervecería Estrella,1784.03,2026-03-07 23:00:00
+a3521365-0e9d-4dd7-aa9c-9c400436b9e0,-3.50,restaurante,Cervecería Estrella,1780.53,2026-03-07 23:25:00
+2a287f31-f68f-4f73-8a73-e1d3ded85d7b,-24.00,transporte,Cabify,1756.53,2026-03-08 01:00:00
+1c645089-fb3a-48c2-9e17-bcd30304417d,-4.00,restaurante,Bodega La Ardosa,1752.53,2026-03-08 12:00:00
+d639ec28-ebe2-46fc-8926-e77345aabc74,-4.00,restaurante,Bodega La Ardosa,1748.53,2026-03-08 12:15:00
+b11a707a-934c-4ada-ab74-143cee15738b,-4.00,restaurante,Bodega La Ardosa,1744.53,2026-03-08 12:30:00
+28ccc5ea-f674-4714-bdb7-fc6bf2598dec,-30.00,restaurante,Casa Mariano,1714.53,2026-03-08 13:15:00
+84d8082a-916d-4a8f-a396-11cbc51cbd3c,-2.50,restaurante,Beer House,1712.03,2026-03-08 17:00:00
+6958b4c2-3559-4967-a38c-d44fb30bc85e,-2.50,restaurante,Beer House,1709.53,2026-03-08 17:20:00
+35937c77-8588-410e-b5bd-343ad9b87035,-3.50,restaurante,Beer House,1706.03,2026-03-08 17:40:00
+bb19030-a692-4d59-a6b5-e53cab509fb8,-2.50,restaurante,Cafetería Manila,1703.53,2026-03-09 08:00:00
+3a852dfc-8a8f-4423-90c4-ea7b3effdd03,-2.50,restaurante,Café Central,1701.03,2026-03-09 15:30:00
+51adaa9b-1683-4155-a30e-afa2948a70ce,-2.50,restaurante,Café Comercial,1698.53,2026-03-10 08:00:00
+c62c0387-b050-4823-9a4c-22e051ce64d7,-2.00,restaurante,El Riojano,1696.53,2026-03-10 15:15:00
+c6e9211c-92ad-42a9-a0de-59c76d40e5b4,-5.00,restaurante,Café Melo's,1691.53,2026-03-11 09:00:00
+0916aee2-51d1-420c-b7db-faa086e66a47,-1.50,restaurante,Café Comercial,1690.03,2026-03-11 09:15:00
+2fb4a4d8-ce86-4822-921b-fe7d5ddb210e,-20.00,restaurante,Juancho's BBQ,1670.03,2026-03-11 13:15:00
+5a01b2fc-52fa-4601-b25b-30e1ffded2d8,-2.00,restaurante,Bar La Peña,1668.03,2026-03-11 15:00:00
+29ece443-39b7-4201-b9a4-3435deec394d,-2.50,restaurante,Cafetería Manila,1665.53,2026-03-12 09:45:00
+de36c74e-f1ec-4c32-8d5d-56afcc280ba9,-2.50,restaurante,Café Melo's,1663.03,2026-03-12 15:45:00
+4ab63fed-c4ff-48e8-a154-2c73c9e8ed24,-2.00,restaurante,Café Gijón,1661.03,2026-03-13 09:45:00
+fb9bf0fe-5d13-44e9-a4a5-cb10cf3576f6,-2.50,restaurante,Cervecería L'Europe,1658.53,2026-03-13 12:00:00
+e0f7a05f-0066-4c78-89b5-b29978e88ed6,-3.50,restaurante,Cervecería L'Europe,1655.03,2026-03-13 12:15:00
+b6217419-3904-4de8-98ff-e76b47aac65f,-4.00,restaurante,Cervecería L'Europe,1651.03,2026-03-13 12:30:00
+f505aae1-5d71-4af4-8b52-bc775e7bca56,-4.00,restaurante,Cervecería L'Europe,1647.03,2026-03-13 12:45:00
+537d02cb-cd51-46f8-9e68-4ed5952a75c6,-2.50,restaurante,La Mallorquina,1644.53,2026-03-13 15:45:00
+31564ebe-a203-4670-92e4-676394a9ed88,-20.00,ocio,Karting,1624.53,2026-03-14 12:00:00
+dcc88862-bbbb-4b88-8785-9064ab1ec394,-2.50,restaurante,Brew Wild,1622.03,2026-03-14 12:00:00
+5b7a55b9-8b00-4ec1-bce5-711d21ab42e8,-3.00,restaurante,Brew Wild,1619.03,2026-03-14 12:00:00
+6be076d6-7ba6-40d7-bbe3-dabde2518267,-20.00,ocio,Karting,1599.03,2026-03-14 12:15:00
+1c492873-5d21-4508-9288-6187fe8e2e24,-4.00,restaurante,Brew Wild,1595.03,2026-03-14 12:15:00
+0915bf39-bf2a-4cb2-bc96-3581e14f1837,-20.00,ocio,Karting,1575.03,2026-03-14 12:30:00
+b0e85850-f593-4cd5-9b5f-1adedff77583,-3.00,restaurante,Brew Wild,1572.03,2026-03-14 12:30:00
+e74797ff-5fa0-4dd9-b548-a5e669d8b3d7,-4.00,restaurante,Brew Wild,1568.03,2026-03-14 12:45:00
+5e42b960-aacb-462b-89bd-7a9dc077690e,-25.00,restaurante,El Bodegón,1543.03,2026-03-14 14:30:00
+bb6699f0-28db-4b14-89df-ff12e5dbb892,-2.50,restaurante,Fábrica Excepcional,1540.53,2026-03-14 17:00:00
+3106c3ae-9ae3-4acb-86f6-63d28b009fd8,-2.50,restaurante,Fábrica Excepcional,1538.03,2026-03-14 17:00:00
+dfc1b124-39bd-4e27-aec9-f9106822e91d,-2.50,restaurante,Fábrica Excepcional,1535.53,2026-03-14 17:20:00
+e696045e-f009-4a61-a091-9119806190cd,-3.00,restaurante,Fábrica Excepcional,1532.53,2026-03-14 17:40:00
+d2fe0f15-3365-45bc-b23c-17f9fa2b89c9,-40.00,restaurante,Taberna El Sur,1492.53,2026-03-14 21:30:00
+978542f5-9d3d-4413-bf5e-cb2ee11f3f93,-4.00,restaurante,La Abadia,1488.53,2026-03-14 23:00:00
+7f141e0f-a8a9-4293-bb57-1b02dcb0605a,-3.50,restaurante,La Abadia,1485.03,2026-03-14 23:25:00
+05f81ece-7cf6-4ada-99b7-c6f563b06993,-2.50,restaurante,La Abadia,1482.53,2026-03-15 00:00:00
+2b05fb6a-e20b-4675-accb-2eecae4c2873,-21.00,transporte,Cabify,1461.53,2026-03-15 02:00:00
+456ebacb-8ecd-4967-8144-4d631ea4a065,-50.00,cajero,Retirada en cajero automático,1411.53,2026-03-15 10:00:00
+327f15b1-2de7-435e-b65b-f7e392a12fc8,-3.00,restaurante,Beer House,1408.53,2026-03-15 12:00:00
+adae5dac-0e21-4c49-b537-528920ba2604,-3.50,restaurante,Beer House,1405.03,2026-03-15 12:15:00
+8cd4677f-4172-46d5-aa11-865bba1778ce,-4.00,restaurante,Beer House,1401.03,2026-03-15 12:30:00
+e4c0c8fd-3bfd-4a8a-916d-11f9a46e8115,-30.00,restaurante,Taberna El Sur,1371.03,2026-03-15 14:15:00
+18e302ce-e47c-4a61-9904-ac1475303dec,-2.50,restaurante,Fábrica Excepcional,1368.53,2026-03-15 17:00:00
+80112444-69d0-4c0c-b8fd-bd9948f45bb3,-3.50,restaurante,Fábrica Excepcional,1365.03,2026-03-15 17:20:00
+85287ccc-bece-418a-adff-a66e6d07b707,-3.50,restaurante,Bodega La Ardosa,1361.53,2026-03-15 23:00:00
+a14a0627-9133-44c9-b1cf-d573bdab2870,-3.00,restaurante,Bodega La Ardosa,1358.53,2026-03-15 23:25:00
+73fdff92-a4f6-4d2c-a80b-ee19ede9c754,-4.00,restaurante,Bodega La Ardosa,1354.53,2026-03-16 00:00:00
+b3cd27b3-74b6-4afe-9ed1-9b86285dd866,-3.50,restaurante,Bodega La Ardosa,1351.03,2026-03-16 00:25:00
+e48e815b-8a33-4202-a50f-33197fc80c04,-24.00,transporte,Cabify,1327.03,2026-03-16 02:00:00
+7e79421b-f407-4c93-84d9-b87a11be585a,-1.50,restaurante,Cafetería Bruin,1325.53,2026-03-16 08:00:00
+0d4e2984-2587-4c6a-bb4a-f0fe2a3addee,-2.00,restaurante,Café de Oriente,1323.53,2026-03-16 15:15:00
+9f377fd0-4f99-44d7-810a-46ea76361244,-82.00,supermercado,Carrefour,1241.53,2026-03-16 18:15:00
+037dbfdc-9b89-4c96-8fc9-04798295e50b,-2.50,restaurante,La Mallorquina,1239.03,2026-03-17 09:00:00
+905db686-df1a-4465-b978-61eefba98c2c,-1.50,restaurante,Pastelería Mallorca,1237.53,2026-03-17 15:15:00
+557b78c3-f92f-4e75-8eec-1d71a5e27410,-81.00,supermercado,Carrefour,1156.53,2026-03-17 19:00:00
+db351beb-6b54-427e-ab8c-29bb9dcb772a,-5.00,restaurante,Bar La Peña,1151.53,2026-03-18 09:00:00
+6291e0c8-7f52-4f72-aa3c-712a3d0e399d,-1.50,restaurante,Café Central,1150.03,2026-03-18 09:45:00
+423e1225-e5a6-4eb7-8f25-a8a3596c305a,-18.00,restaurante,Juancho's BBQ,1132.03,2026-03-18 14:15:00
+72c43555-c3d7-4a44-bba3-1228667f54a9,-2.00,restaurante,Café de Oriente,1130.03,2026-03-18 15:15:00
+fb441a56-771f-4367-8dd5-8e7d190de815,-72.00,supermercado,Alcampo,1058.03,2026-03-18 19:00:00
+59fb9cf6-c0a9-43ff-a35f-926a9123193,-1.50,restaurante,Café Melo's,1056.53,2026-03-19 09:15:00
+168ddbd9-ef4f-4a1b-b334-24d6819297a6,-2.00,restaurante,Café Gijón,1054.53,2026-03-19 15:00:00
+c0e5c2ea-131a-4930-91d6-f319364dc951,-2.50,restaurante,Café Central,1052.03,2026-03-20 09:45:00
+e72177ca-8317-409b-b900-3d0a36707a73,-55.00,transporte,Cepsa Getafe,997.03,2026-03-20 11:30:00
+979abac1-8560-481a-bfb0-cfb2a4c309a0,-3.50,restaurante,Bodega La Ardosa,993.53,2026-03-20 12:00:00
+eb0af531-465e-4bc9-a230-07fcdd3536df,-3.50,restaurante,Bodega La Ardosa,990.03,2026-03-20 12:00:00
+609a9f90-4c2b-4ad2-b3ed-765ff8466b1a,-3.50,restaurante,Bodega La Ardosa,986.53,2026-03-20 12:15:00
+df15cbe4-d13a-45d3-bd45-3d563032d28b,-4.00,restaurante,Bodega La Ardosa,982.53,2026-03-20 12:30:00
+a8b122a0-4466-4f0f-907b-912df6009c36,-2.50,restaurante,Bodega La Ardosa,980.03,2026-03-20 12:45:00
+a492f7bb-8f92-4a87-9f8f-92f9fa7ae665,-22.00,restaurante,StreetXO,958.03,2026-03-20 13:00:00
+970675e0-c7f1-4f60-8485-aecb7e039dfb,-1.50,restaurante,Pastelería Mallorca,956.53,2026-03-20 15:30:00
+591a4f70-c2ff-4dd9-a896-f73179176e52,-20.00,ocio,Karting,936.53,2026-03-21 12:00:00
+8bfca849-dfee-4d11-8ee0-35a219b063e4,-20.00,ocio,Karting,916.53,2026-03-21 12:15:00
+f1537bb6-7c22-431e-b6c6-e96b01ac55c4,-20.00,ocio,Karting,896.53,2026-03-21 12:30:00
+2e6c4321-90ea-4ce5-ab94-3d5ab5293ca9,-20.00,ocio,Karting,876.53,2026-03-22 12:00:00
+f76e6764-ceb5-4922-8652-49517e86c6a9,-2.50,restaurante,La Abadia,874.03,2026-03-22 12:00:00
+f100f194-e42b-46b0-83c3-85aaed9c4fe1,-20.00,ocio,Karting,854.03,2026-03-22 12:15:00
+5fc8fa4d-0af2-4e0d-9f71-97233453378e,-36.00,restaurante,El Paraguas,818.03,2026-03-22 14:00:00
+f123839a-2cf9-49e3-aec6-2678ab933f6d,-10.20,transporte,Recarga transporte público Madrid,807.83,2026-03-23 09:00:00
+95c64ba4-b193-4964-87c4-12d629838bf4,-2.50,restaurante,Pastelería Mallorca,805.33,2026-03-23 09:45:00
+89c4e41b-e175-45c4-8486-1b1aadd728fe,-2.50,restaurante,Bar La Peña,802.83,2026-03-23 15:45:00
+f513cc74-404a-42b4-9bdd-b095b7f1077b,-57.00,supermercado,Alcampo,745.83,2026-03-23 19:00:00
+ee9c0363-69c0-4c3c-b237-011811870507,-1.50,restaurante,Café Comercial,744.33,2026-03-24 08:45:00
+d4cf7e65-502e-46d3-9b42-88608900ac1e,-1.50,restaurante,Pastelería Mallorca,742.83,2026-03-24 15:00:00
+9acf08ce-2e89-4b54-b1df-fa223cfaaaef,-25.00,transferencia,Transferencia bancaria,717.83,2026-03-24 17:00:00
+d96951cb-3836-47fe-b00a-a7cc8d80af87,-59.00,supermercado,Mercadona,658.83,2026-03-24 18:15:00
+b8a99b72-2f6a-4cda-92bb-c81c556b9344,-2.50,restaurante,Bar El Anciano,656.33,2026-03-25 08:45:00
+bc38df2f-8914-4c90-9d1a-fe1b2a311304,-4.00,restaurante,Cafetería Bruin,652.33,2026-03-25 09:00:00
+5e036dca-549e-42b2-9622-233412748372,-12.99,ocio,DAZN,639.34,2026-03-25 10:00:00
+3cffa6ec-b8f0-46fe-bdf5-ab7259c99973,-15.00,restaurante,Juancho's BBQ,624.34,2026-03-25 14:00:00
+931a737f-eff2-41a5-bca8-c6bc0840be60,-2.50,restaurante,Cafetería Bruin,621.84,2026-03-25 15:45:00
+829ba0a1-0280-4d46-b414-841e432c5e3c,-48.00,supermercado,Carrefour,573.84,2026-03-25 19:30:00
+db0d328d-0632-49ae-82eb-a2a92de5dadf,-2.00,restaurante,Bar La Peña,571.84,2026-03-26 09:00:00
+1a91f75e-fc96-4b41-a495-19dfa584fce0,-1.50,restaurante,El Riojano,570.34,2026-03-26 15:30:00
+2553add6-4c4f-4d4a-bb33-addb12d224d3,-1.50,restaurante,Café Comercial,568.84,2026-03-27 09:15:00
+ade2f894-882d-43e3-a8d5-4468b114864b,-1.50,restaurante,Bar El Anciano,567.34,2026-03-27 15:45:00
+3122bf79-33ff-4b08-a8c0-6d8e02d8e2fc,2500.00,nomina,Nómina mensual,3067.34,2026-03-28 09:00:00
+a936de93-234b-41e3-ad97-e0a207e47742,-40.00,cajero,Retirada en cajero automático,3027.34,2026-03-28 15:00:00
+4bfe999a-1e11-4c7f-bf3b-51231f78b6b9,-1.50,restaurante,Café Gijón,3025.84,2026-03-30 08:30:00
+e202cae5-08b2-4852-b749-4abb42e0ad1b,-1.50,restaurante,Bar La Peña,3024.34,2026-03-30 15:30:00
+abf9f7b0-c6dc-4550-9463-4e33314f3a74,-1.50,restaurante,Café Gijón,3022.84,2026-03-31 08:00:00
+c6920e9b-3cf5-4e22-986b-7469f83f8bef,-2.00,restaurante,Bar La Peña,3020.84,2026-03-31 15:30:00
