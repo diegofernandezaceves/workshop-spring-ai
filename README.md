@@ -139,3 +139,45 @@ curl -X POST http://localhost:8080/api/chat \
   -H "Content-Type: application/json" \
   -d '{"message": "¿Qué te parece un pago de 847€ un sábado a las 3am?"}'
 ```
+
+### RAG - Preguntas semánticas:
+
+```bash
+curl -X POST http://localhost:8080/api/chat \
+  -H "Content-Type: application/json" \
+  -d '{"message": "¿A que supermercados suelo ir?"}'
+```
+✅Respuesta: "Los supermercados que visitas son Carrefour, Mercadona y Alcampo."
+
+```bash
+curl -X POST http://localhost:8080/api/chat \
+  -H "Content-Type: application/json" \
+  -d '{"message": "¿A que hora suelo comprar cafe?"}'
+```
+✅Respuesta: "Compras café en la mañana (alrededor de las 08:00 a 09:30) y también por la tarde (entre las 15:00 y 16:00)."
+
+```bash
+curl -X POST http://localhost:8080/api/chat \
+  -H "Content-Type: application/json" \
+  -d '{"message": "¿Cuantas subscripciones pago?"}'
+```
+✅Respuesta: "Pagaste por 4 tipos de suscripciones: Amazon Prime, Netflix, Spotify y DAZN."
+
+```bash
+curl -X POST http://localhost:8080/api/chat \
+  -H "Content-Type: application/json" \
+  -d '{"message": "¿Que restaurante frecuento mas?"}'
+```
+❌Respuesta incorrecta: "El restaurante que más frecuentes es Fábrica Excepcional."
+ℹ️_El restaurante que mas frecuento es "Bodega La Ardosa"_
+
+```bash
+curl -X POST http://localhost:8080/api/chat \
+  -H "Content-Type: application/json" \
+  -d '{"message": "¿Cuanto me he gastado en Karting en marzo de 2026?"}'
+```
+❌Respuesta incorrecta: "Te gastaste -100.00€ en Karting durante marzo de 2026."
+ℹ️_El importe sería 160€_
+
+
+
