@@ -2,59 +2,45 @@ package dev.code.financial.assistant.ai.service;
 
 import dev.code.financial.assistant.ai.entity.Transaction;
 import dev.code.financial.assistant.ai.repository.TransactionRepository;
-import dev.code.financial.assistant.ai.util.TransactionCsvUtil;
-import jakarta.annotation.PostConstruct;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.io.Resource;
 import org.springframework.stereotype.Service;
 
-import java.io.InputStream;
 import java.util.List;
 
 @Slf4j
 @Service
-public class MongoLoaderService {
+public class MongoLoaderService extends AbstractLoaderService {
 
-    private final Resource transactionsResource;
     private final TransactionRepository transactionRepository;
 
     public MongoLoaderService(@Value("classpath:data/transactions.csv") Resource transactionsResource,
                               TransactionRepository transactionRepository) {
 
-        this.transactionsResource = transactionsResource;
+        super(transactionsResource);
         this.transactionRepository = transactionRepository;
     }
 
-    @PostConstruct
-    public void load() {
+    @Override
+    public boolean isEmpty() {
+        return transactionRepository.count() == 0;
+    }
 
-        if (isCollectionEmpty()) {
+    @Override
+    public void save(List<dev.code.financial.assistant.ai.model.Transaction> transactionsCsv) {
 
-            log.info("Loading transactions from {}", this.transactionsResource.getFilename());
+        List<Transaction> transactions = transactionsCsv.stream()
+                .map(this::toTransaction)
+                .toList();
 
-            try (InputStream inputStream = this.transactionsResource.getInputStream()) {
-
-                List<Transaction> transactions = TransactionCsvUtil.read(inputStream).stream()
-                        .map(this::toTransaction)
-                        .toList();
-
-                this.transactionRepository.saveAll(transactions);
-
-                log.info("Loaded {} transactions!", transactions.size());
-
-            } catch (Exception e) {
-                log.error("Error loading transactions", e);
-            }
-
-        } else {
-            log.info("Transactions already exits transactions from {}", this.transactionsResource.getFilename());
-        }
+        this.transactionRepository.saveAll(transactions);
 
     }
 
-    public boolean isCollectionEmpty() {
-        return transactionRepository.count() == 0;
+    @Override
+    public String databaseName() {
+        return "MongoDB";
     }
 
     public Transaction toTransaction(dev.code.financial.assistant.ai.model.Transaction transaction) {

@@ -18,44 +18,19 @@ import java.util.Map;
 
 @Slf4j
 @Service
-public class VectorStoreLoaderService {
+public class VectorStoreLoaderService extends AbstractLoaderService {
 
-    private final Resource transactionsResource;
     private final VectorStore transactionsVectorStore;
 
     public VectorStoreLoaderService(@Value("classpath:data/transactions.csv") Resource transactionsResource,
                                     VectorStore transactionsVectorStore) {
 
-        this.transactionsResource = transactionsResource;
+        super(transactionsResource);
         this.transactionsVectorStore = transactionsVectorStore;
     }
 
-    @PostConstruct
-    public void load() {
-
-        if (isChromaEmpty()) {
-
-            log.info("Loading transactions from {}", this.transactionsResource.getFilename());
-
-            try (InputStream inputStream = this.transactionsResource.getInputStream()) {
-
-                List<Document> documents = TransactionCsvUtil.read(inputStream).stream()
-                        .map(this::toDocument)
-                        .toList();
-
-                this.transactionsVectorStore.add(documents);
-                log.info("Loaded {} transactions!", documents.size());
-
-            } catch (IOException e) {
-                log.error("Error loading transactions", e);
-            }
-        } else {
-            log.info("Transactions already exits transactions from {}", this.transactionsResource.getFilename());
-        }
-
-    }
-
-    public boolean isChromaEmpty() {
+    @Override
+    public boolean isEmpty() {
 
         SearchRequest request = SearchRequest.builder()
                 .query("transaction")
@@ -64,6 +39,22 @@ public class VectorStoreLoaderService {
 
         List<Document> results = this.transactionsVectorStore.similaritySearch(request);
         return results.isEmpty();
+    }
+
+    @Override
+    public void save(List<Transaction> transactionsCsv) {
+
+        List<Document> documents = transactionsCsv.stream()
+                .map(this::toDocument)
+                .toList();
+
+        this.transactionsVectorStore.add(documents);
+
+    }
+
+    @Override
+    public String databaseName() {
+        return "ChromaDB";
     }
 
     private Document toDocument(Transaction transaction) {
