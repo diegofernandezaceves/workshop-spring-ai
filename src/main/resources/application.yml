@@ -3,6 +3,8 @@ spring:
     name: financial-assistant-ai
   profiles:
     active: @ai.profile@
+  mongodb:
+    uri: mongodb://localhost/financial-assistant
   ai:
     vectorstore:
       chroma:
