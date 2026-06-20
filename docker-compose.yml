@@ -6,5 +6,15 @@ services:
     volumes:
       - chroma-data:/chroma/chroma
 
+  mongodb:
+    image: mongo:7
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_DATABASE: banking
+    volumes:
+      - mongo-data:/data/db
+
 volumes:
   chroma-data:
+  mongo-data:
