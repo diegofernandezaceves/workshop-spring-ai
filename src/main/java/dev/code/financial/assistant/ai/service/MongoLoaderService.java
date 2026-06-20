@@ -1,6 +1,7 @@
 package dev.code.financial.assistant.ai.service;
 
 import dev.code.financial.assistant.ai.entity.Transaction;
+import dev.code.financial.assistant.ai.dto.TransactionDto;
 import dev.code.financial.assistant.ai.repository.TransactionRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
@@ -28,9 +29,9 @@ public class MongoLoaderService extends AbstractLoaderService {
     }
 
     @Override
-    public void save(List<dev.code.financial.assistant.ai.model.Transaction> transactionsCsv) {
+    public void save(List<TransactionDto> transactionsDto) {
 
-        List<Transaction> transactions = transactionsCsv.stream()
+        List<Transaction> transactions = transactionsDto.stream()
                 .map(this::toTransaction)
                 .toList();
 
@@ -43,14 +44,14 @@ public class MongoLoaderService extends AbstractLoaderService {
         return "MongoDB";
     }
 
-    public Transaction toTransaction(dev.code.financial.assistant.ai.model.Transaction transaction) {
+    public Transaction toTransaction(TransactionDto transactionDto) {
         return Transaction.builder()
-                .id(transaction.transactionId())
-                .description(transaction.description())
-                .amount(transaction.amount())
-                .category(transaction.category())
-                .balance(transaction.balance())
-                .datetime(transaction.datetime())
+                .id(transactionDto.transactionId())
+                .description(transactionDto.description())
+                .amount(transactionDto.amount())
+                .category(transactionDto.category())
+                .balance(transactionDto.balance())
+                .datetime(transactionDto.datetime())
                 .build();
     }
 }

@@ -1,8 +1,6 @@
 package dev.code.financial.assistant.ai.service;
 
-import dev.code.financial.assistant.ai.model.Transaction;
-import dev.code.financial.assistant.ai.util.TransactionCsvUtil;
-import jakarta.annotation.PostConstruct;
+import dev.code.financial.assistant.ai.dto.TransactionDto;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.ai.document.Document;
 import org.springframework.ai.vectorstore.SearchRequest;
@@ -11,8 +9,6 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.io.Resource;
 import org.springframework.stereotype.Service;
 
-import java.io.IOException;
-import java.io.InputStream;
 import java.util.List;
 import java.util.Map;
 
@@ -42,9 +38,9 @@ public class VectorStoreLoaderService extends AbstractLoaderService {
     }
 
     @Override
-    public void save(List<Transaction> transactionsCsv) {
+    public void save(List<TransactionDto> transactionsDto) {
 
-        List<Document> documents = transactionsCsv.stream()
+        List<Document> documents = transactionsDto.stream()
                 .map(this::toDocument)
                 .toList();
 
@@ -57,22 +53,22 @@ public class VectorStoreLoaderService extends AbstractLoaderService {
         return "ChromaDB";
     }
 
-    private Document toDocument(Transaction transaction) {
+    private Document toDocument(TransactionDto transactionDto) {
 
-        String type = transaction.amount().signum() == -1 ? "Pago" : "Ingreso";
+        String type = transactionDto.amount().signum() == -1 ? "Pago" : "Ingreso";
         String content = String.format("%s en %s el %s por %s€ — categoría: %s",
                 type,
-                transaction.description(),
-                transaction.datetime(),
-                transaction.amount(),
-                transaction.category());
+                transactionDto.description(),
+                transactionDto.datetime(),
+                transactionDto.amount(),
+                transactionDto.category());
 
         Map<String, Object> metadata = Map.of(
                 "type", type,
-                "description", transaction.description(),
-                "datetime", transaction.datetime(),
-                "category", transaction.category(),
-                "amount", transaction.amount());
+                "description", transactionDto.description(),
+                "datetime", transactionDto.datetime(),
+                "category", transactionDto.category(),
+                "amount", transactionDto.amount());
 
         return new Document(content, metadata);
     }

@@ -1,5 +1,6 @@
 package dev.code.financial.assistant.ai.service;
 
+import dev.code.financial.assistant.ai.dto.TransactionDto;
 import dev.code.financial.assistant.ai.util.TransactionCsvUtil;
 import jakarta.annotation.PostConstruct;
 import lombok.extern.slf4j.Slf4j;
@@ -26,9 +27,9 @@ public abstract class AbstractLoaderService {
 
             try (InputStream inputStream = this.transactionsResource.getInputStream()) {
 
-                List<dev.code.financial.assistant.ai.model.Transaction> transactionsCsv = TransactionCsvUtil.read(inputStream);
-                this.save(transactionsCsv);
-                log.info("Loaded {} transactions in {}!!", transactionsCsv.size(), this.databaseName());
+                List<TransactionDto> transactionsDto = TransactionCsvUtil.read(inputStream);
+                this.save(transactionsDto);
+                log.info("Loaded {} transactions in {}!!", transactionsDto.size(), this.databaseName());
 
             } catch (Exception e) {
                 log.error("Error loading transactions", e);
@@ -42,7 +43,7 @@ public abstract class AbstractLoaderService {
 
     public abstract boolean isEmpty();
 
-    public abstract void save(List<dev.code.financial.assistant.ai.model.Transaction> transactionsCsv);
+    public abstract void save(List<TransactionDto> transactionsDto);
 
     public abstract String databaseName();
 
