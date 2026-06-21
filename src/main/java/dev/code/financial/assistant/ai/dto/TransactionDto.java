@@ -1,4 +1,4 @@
-package dev.code.financial.assistant.ai.model;
+package dev.code.financial.assistant.ai.dto;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
@@ -14,7 +14,7 @@ import java.time.LocalDateTime;
         "balance",
         "datetime"
 })
-public record Transaction(
+public record TransactionDto(
         String transactionId,
         BigDecimal amount,
         String category,

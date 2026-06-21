@@ -1,7 +1,7 @@
 package dev.code.financial.assistant.ai.service;
 
-import dev.code.financial.assistant.ai.model.ChatRequest;
-import dev.code.financial.assistant.ai.model.ChatResponse;
+import dev.code.financial.assistant.ai.dto.ChatRequestDto;
+import dev.code.financial.assistant.ai.dto.ChatResponseDto;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.client.advisor.vectorstore.QuestionAnswerAdvisor;
@@ -34,14 +34,14 @@ public class ChatService {
                 .build();
     }
 
-    public ChatResponse chat(ChatRequest chatRequest) {
+    public ChatResponseDto chat(ChatRequestDto chatRequestDto) {
 
         String content = this.chatClient.prompt()
-                .user(chatRequest.message())
+                .user(chatRequestDto.message())
                 .call()
                 .content();
 
-        return new ChatResponse(content);
+        return new ChatResponseDto(content);
     }
 
 }

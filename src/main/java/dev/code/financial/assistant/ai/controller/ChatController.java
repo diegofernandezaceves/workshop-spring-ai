@@ -1,7 +1,7 @@
 package dev.code.financial.assistant.ai.controller;
 
-import dev.code.financial.assistant.ai.model.ChatRequest;
-import dev.code.financial.assistant.ai.model.ChatResponse;
+import dev.code.financial.assistant.ai.dto.ChatRequestDto;
+import dev.code.financial.assistant.ai.dto.ChatResponseDto;
 import dev.code.financial.assistant.ai.service.ChatService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -17,8 +17,8 @@ public class ChatController {
     private final ChatService chatService;
 
     @PostMapping("/chat")
-    public ChatResponse chatAssistant(@RequestBody ChatRequest chatRequest) {
-        return this.chatService.chat(chatRequest);
+    public ChatResponseDto chatAssistant(@RequestBody ChatRequestDto chatRequestDto) {
+        return this.chatService.chat(chatRequestDto);
     }
 
 }
