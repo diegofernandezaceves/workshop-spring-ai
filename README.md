@@ -199,3 +199,36 @@ curl -X POST http://localhost:8080/api/chat \
   -d '{"message": "¿Cuanto me he gastado en Karting en marzo de 2026?"}'
 ```
 ✅Respuesta: "Te has gastado un total de -€160.00 en Karting durante marzo de 2026."
+
+### Chat Memory:
+
+### Antes:
+```bash
+curl -X POST http://localhost:8080/api/chat \
+  -H "Content-Type: application/json" \
+  -d '{"message": "¿Cuanto me he gastado en Karting en marzo de 2026?"}'
+```
+✅Respuesta: "Según el registro, te gastaste -160.00€ en Karting durante marzo de 2026."
+
+```bash
+curl -X POST http://localhost:8080/api/chat \
+  -H "Content-Type: application/json" \
+  -d '{"message": "¿Y el mes pasado?"}'
+```
+❌Respuesta: "Te has gastado un total de -100.00€ en Karting durante febrero del 2026."
+ℹ️_El importe sería 180€_
+
+### Después:
+```bash
+curl -X POST http://localhost:8080/api/chat \
+  -H "Content-Type: application/json" \
+  -d '{"message": "¿Cuanto me he gastado en Karting en marzo de 2026?"}'
+```
+✅Respuesta: "Según el registro, te gastaste -160.00€ en Karting durante marzo de 2026."
+
+```bash
+curl -X POST http://localhost:8080/api/chat \
+  -H "Content-Type: application/json" \
+  -d '{"message": "¿Y el mes pasado?"}'
+```
+✅Respuesta: "Tu gasto en Karting el mes pasado (febrero de 2026) fue de -180.00€."
