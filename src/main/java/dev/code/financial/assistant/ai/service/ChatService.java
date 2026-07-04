@@ -2,8 +2,10 @@ package dev.code.financial.assistant.ai.service;
 
 import dev.code.financial.assistant.ai.dto.ChatRequestDto;
 import dev.code.financial.assistant.ai.dto.ChatResponseDto;
+import dev.code.financial.assistant.ai.tool.TransactionTools;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.ai.chat.client.ChatClient;
+import org.springframework.ai.chat.client.advisor.SimpleLoggerAdvisor;
 import org.springframework.ai.chat.client.advisor.vectorstore.QuestionAnswerAdvisor;
 import org.springframework.ai.vectorstore.SearchRequest;
 import org.springframework.ai.vectorstore.VectorStore;
@@ -19,7 +21,8 @@ public class ChatService {
 
     public ChatService(ChatClient.Builder chatClientBuilder,
                        @Value("classpath:prompts/system-prompt.txt") Resource systemPrompt,
-                       VectorStore vectorStore) {
+                       VectorStore vectorStore,
+                       TransactionTools transactionTools) {
 
         QuestionAnswerAdvisor questionAnswerAdvisor = QuestionAnswerAdvisor.builder(vectorStore)
                 .searchRequest(SearchRequest.builder()
@@ -30,7 +33,8 @@ public class ChatService {
 
         this.chatClient = chatClientBuilder
                 .defaultSystem(systemPrompt)
-                .defaultAdvisors(questionAnswerAdvisor)
+                .defaultAdvisors(questionAnswerAdvisor, new SimpleLoggerAdvisor())
+                .defaultTools(transactionTools)
                 .build();
     }
 

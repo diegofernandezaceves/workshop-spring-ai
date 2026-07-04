@@ -179,5 +179,23 @@ curl -X POST http://localhost:8080/api/chat \
 ❌Respuesta incorrecta: "Te gastaste -100.00€ en Karting durante marzo de 2026."
 ℹ️_El importe sería 160€_
 
+### Tool Calling:
+```bash
+curl -X POST http://localhost:8080/api/chat \
+  -H "Content-Type: application/json" \
+  -d '{"message": "¿Que restaurante frecuento mas?"}'
+```
+✅Respuesta: "El restaurante que más frecuentas es Bodega La Ardosa."
+```bash
+curl -X POST http://localhost:8080/api/chat \
+  -H "Content-Type: application/json" \
+  -d '¿Cuales son los 5 restaurantes que menos frecuento?"}'
+```
+✅Respuesta: "StreetXO, La Taverna, Bar La Peña, Juancho's BBQ y Pastelería Mallorca son los restaurantes que menos has frecuentado (una vez cada uno)."
 
-
+```bash
+curl -X POST http://localhost:8080/api/chat \
+  -H "Content-Type: application/json" \
+  -d '{"message": "¿Cuanto me he gastado en Karting en marzo de 2026?"}'
+```
+✅Respuesta: "Te has gastado un total de -€160.00 en Karting durante marzo de 2026."
