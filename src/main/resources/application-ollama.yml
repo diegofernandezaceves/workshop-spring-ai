@@ -3,7 +3,7 @@ spring:
     ollama:
       base-url: http://localhost:11434
       chat:
-        model: gemma4:e4b-mlx
+        model: qwen3.5:4b-mlx
         num-ctx: 16384
       embedding:
         options:
