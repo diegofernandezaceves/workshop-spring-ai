@@ -232,3 +232,38 @@ curl -X POST http://localhost:8080/api/chat \
   -d '{"message": "¿Y el mes pasado?"}'
 ```
 ✅Respuesta: "Tu gasto en Karting el mes pasado (febrero de 2026) fue de -180.00€."
+
+### Fraudulent transaction detection:
+
+⚠️ Para esta prueba el modelo de `gemma4:e4b` no fue capaz de reconocer los patrones de fraude. 
+Se opto por usa `qwen3.5:4b` en `application-ollama.yml`. 
+Tambien se probo con la configuracion de _openai_ y el modelo de `gpt-4.1` con éxito.
+
+```bash
+curl -X POST 'http://localhost:8080/api/chat' \
+--header 'Content-Type: application/json' \
+--data '{"message": "Busca mas cargos sospechosos en diciembre"}'
+```
+### Antes de mejorar el prompt:
+```
+Cargos sospechosos detectados en diciembre:
+
+Retiradas en cajero automático (patrón inusual):
+  * 4 retiros entre el 29/12 consecutivos
+  * Importes totales: -360.00€ (-150.00€, -100.00€, -60.00€, -50.00€)
+    
+Transferencias bancarias sin contexto:
+  * -70.00€ totales en 2 días (17/12 y 17/12)
+
+Patrones de gasto recurrente:
+  * Resto: -84.50€ (cervezaría L'Europe, múltiples compras de 2-4€)
+  * Cartas: -53.50€ (varios retiros pequeños sin fecha clara)
+  
+Recomendación: Revisa las transferencias no explicadas y los múltiples retiros en cajero el 29/12. ¿Quieres que calcule el total de gastos por categoría en diciembre?
+```
+### Despues de mejorar el prompt:
+```
+**ALERTA DIRECTA**: Retirada en cajero automático el 2025-12-29T02:04:47 por -100,00€.
+**PATRÓN DETECTADO**: Se han realizado 4 retiradas de 100€, 50€, 150€ y 60€ en un tiempo de solo 23 segundos (desde las 02:04 hasta las 02:05 del día 29 de diciembre).
+**ACCIÓN RECOMENDADA**: Congelamos tu tarjeta por seguridad inmediata. Si esta es una operación tuya, revívala y descongela la tarjeta en tu app. Si no la reconoces, contacta con soporte bancario ya mismo para denunciarla.
+```
