@@ -267,3 +267,40 @@ Recomendación: Revisa las transferencias no explicadas y los múltiples retiros
 **PATRÓN DETECTADO**: Se han realizado 4 retiradas de 100€, 50€, 150€ y 60€ en un tiempo de solo 23 segundos (desde las 02:04 hasta las 02:05 del día 29 de diciembre).
 **ACCIÓN RECOMENDADA**: Congelamos tu tarjeta por seguridad inmediata. Si esta es una operación tuya, revívala y descongela la tarjeta en tu app. Si no la reconoces, contacta con soporte bancario ya mismo para denunciarla.
 ```
+
+### Structured Output:
+
+⚠️ Para esta prueba el `qwen3.5:4b` a veces no es capaz de transacciones fraudulentas ilícitas.
+Para que funcionen bien hay que echarles una mano e indicar el tipo de concepto o descripción de la transacción.
+
+ℹ️ Usando la configuración de _openai_ y el modelo de `gpt-4.1` es capaz de detectar los patrones de fraude sin necesidad de indicar el tipo de concepto.
+
+### Sin indicar el tipo de concepto
+```bash
+curl -X POST 'http://localhost:8080/api/chat/analyze' \
+--header 'Content-Type: application/json' \
+--data '{"message": "¿Hay alguna transaccion fraudulenta o sospechosa en diciembre?"}'
+```
+
+### Indicando el tipo de concepto
+```bash
+curl -X POST 'http://localhost:8080/api/chat/analyze' \
+--header 'Content-Type: application/json' \
+--data '{"message": ¿Hay alguna retirada de cajero fraudulenta en diciembre?"}'
+```
+
+✅ Respuesta:
+```json
+{
+    "fraudDetected": true,
+    "riskLevel": "HIGH",
+    "reason": "Se han realizado 4 retiradas consecutivas en cajero automático de 160€ en un intervalo de solo 23 segundos, lo cual es físicamente imposible.",
+    "recommendation": "Congelada la tarjeta y contacta con el banco inmediatamente para reportar las operaciones sospechosas. Verifica si estas transacciones son auténticas revisando los recibos.",
+    "transactionIds": [
+        "84e302ed-4ee6-4ea7-92c7-f33d5b4e7c82",
+        "30b05401-ddba-4dbd-9523-3e4a48d319e9",
+        "73635cfa-c1d8-47cb-8a7f-ddc642371aff",
+        "6d3c1028-bedf-4adf-b475-ed9897876ff1"
+    ]
+} 
+```

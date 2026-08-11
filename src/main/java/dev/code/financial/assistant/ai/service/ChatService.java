@@ -2,9 +2,9 @@ package dev.code.financial.assistant.ai.service;
 
 import dev.code.financial.assistant.ai.dto.ChatRequestDto;
 import dev.code.financial.assistant.ai.dto.ChatResponseDto;
+import dev.code.financial.assistant.ai.dto.analyze.FraudAlertDto;
 import dev.code.financial.assistant.ai.tool.TransactionTools;
 import lombok.extern.slf4j.Slf4j;
-import org.jspecify.annotations.NonNull;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.client.advisor.MessageChatMemoryAdvisor;
 import org.springframework.ai.chat.client.advisor.SimpleLoggerAdvisor;
@@ -59,6 +59,16 @@ public class ChatService {
                 .content();
 
         return new ChatResponseDto(content);
+    }
+
+    public FraudAlertDto analyze(ChatRequestDto chatRequestDto) {
+
+        return this.chatClient.prompt()
+                .user(chatRequestDto.message())
+                .advisors(this.setDefaultConversationId())
+                .call()
+                .entity(FraudAlertDto.class);
+
     }
 
     private Consumer<ChatClient.AdvisorSpec> setDefaultConversationId() {

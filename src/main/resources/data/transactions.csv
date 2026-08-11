@@ -484,11 +484,8 @@ b5c59340-d5ec-455f-94d0-e4fcff7fe614,-2.50,restaurante,Cervecería L'Europe,1484
 cc6bf9ab-c587-44ab-826e-8610e199484f,-3.50,restaurante,Cervecería L'Europe,1476.17,2025-12-06 12:45:00
 921d21af-3f17-442c-adf2-4bf1f75eb7b1,-40.00,restaurante,Taberna El Sur,1436.17,2025-12-06 14:30:00
 3517a3a6-90e4-41d6-8e1e-c157bf86a813,-39.00,restaurante,Sala de Despiece,1397.17,2025-12-06 20:15:00
-546f88da-624f-43e3-929a-cb56ffc46852,-4.00,restaurante,Cervecissimus,1393.17,2025-12-06 23:00:00
-35ea9aee-ffe9-471d-bb3a-78e08dd4382f,-3.50,restaurante,Cervecissimus,1389.67,2025-12-06 23:25:00
-858411b9-d407-45f3-ad44-547f173a7bfb,-3.50,restaurante,Cervecissimus,1386.17,2025-12-07 00:00:00
-97d3bca1-90a3-4265-819e-c401ebcda796,-4.00,restaurante,Cervecissimus,1382.17,2025-12-07 00:25:00
-7e64ca51-3981-47d7-9a42-83b1e0dfaf62,-2.50,restaurante,Cervecissimus,1379.67,2025-12-07 01:00:00
+546f88da-624f-43e3-929a-cb56ffc46852,-7.50,restaurante,Cervecissimus,1393.17,2025-12-06 23:00:00
+7e64ca51-3981-47d7-9a42-83b1e0dfaf62,-11.00,restaurante,Cervecissimus,1379.67,2025-12-07 01:00:00
 9cffa0c0-5afe-476c-92d0-e9830475b821,-26.00,transporte,Cabify,1353.67,2025-12-07 03:00:00
 deb1a98e-7c12-4cd0-aa08-758f575fec43,-2.50,restaurante,Cervecería L'Europe,1351.17,2025-12-07 12:00:00
 29a68786-7252-45d5-bf50-4afc64e08126,-3.00,restaurante,Cervecería L'Europe,1348.17,2025-12-07 12:00:00
@@ -512,19 +509,12 @@ cb7ebc57-8a1d-4327-8682-c20c04e372ef,-2.00,restaurante,Pastelería Mallorca,1297
 4276f745-b40b-4918-a4c8-81240eba97d0,-2.00,restaurante,Café Comercial,1183.67,2025-12-11 15:00:00
 13bd3d18-ae10-409a-83e8-c2bdd10f5da5,-46.00,supermercado,Alcampo,1137.67,2025-12-11 19:30:00
 cdcab59b-f3e9-4236-bbc0-bed0bde155fc,-2.50,restaurante,El Riojano,1135.17,2025-12-12 08:00:00
-2cbf2cfa-01c9-4cd3-afc5-6d75de59810d,-2.50,restaurante,Cervecería Estrella,1132.67,2025-12-12 12:00:00
-25373862-020e-482a-97b0-0a0dd3a3f2c7,-3.50,restaurante,Cervecería Estrella,1129.17,2025-12-12 12:00:00
-f41a7c42-9644-4023-86e7-6bc2a4cd6bb4,-2.50,restaurante,Cervecería Estrella,1126.67,2025-12-12 12:15:00
-a3023991-b91f-4d84-a5cd-2726d3572c99,-3.50,restaurante,Cervecería Estrella,1123.17,2025-12-12 12:30:00
-69fd38e7-fdae-4da4-974c-ebdf00c2641e,-3.00,restaurante,Cervecería Estrella,1120.17,2025-12-12 12:45:00
+2cbf2cfa-01c9-4cd3-afc5-6d75de59810d,-6.00,restaurante,Cervecería Estrella,1132.67,2025-12-12 12:02:00
+f41a7c42-9644-4023-86e7-6bc2a4cd6bb4,-9.00,restaurante,Cervecería Estrella,1126.67,2025-12-12 13:11:00
 1dbf625e-0837-43cb-a773-e9aff203f74f,-2.50,restaurante,Cafetería Manila,1117.67,2025-12-12 15:00:00
 54b3f3bd-50b3-4f20-81cd-d05216ceeaeb,-40.00,cajero,Retirada en cajero automático,1077.67,2025-12-12 16:00:00
-a9b52ca2-ce0c-4f87-8fb3-639c97d92d66,-4.00,restaurante,Cervecissimus,1073.67,2025-12-13 12:00:00
-eb9cf11a-7647-4d59-b783-9ea797890c5d,-2.50,restaurante,Cervecissimus,1071.17,2025-12-13 12:00:00
-0467b567-b5a2-4aec-8fb2-6ae748a8c864,-3.00,restaurante,Cervecissimus,1068.17,2025-12-13 12:15:00
-369f8cb5-9f1b-40d8-885b-fe4b71e1895d,-2.50,restaurante,Cervecissimus,1065.67,2025-12-13 12:15:00
-9f54ad8c-4523-4b5d-9b63-b9cc2320e458,-4.00,restaurante,Cervecissimus,1061.67,2025-12-13 12:30:00
-4369df64-bdd9-4c67-a00d-cc686ff63671,-2.50,restaurante,Cervecissimus,1059.17,2025-12-13 12:45:00
+a9b52ca2-ce0c-4f87-8fb3-639c97d92d66,-9.50,restaurante,Cervecissimus,1073.67,2025-12-13 12:00:00
+369f8cb5-9f1b-40d8-885b-fe4b71e1895d,-9.50,restaurante,Cervecissimus,1065.67,2025-12-13 13:01:00
 08a7bfd1-603b-4966-b612-2728346cdaa2,-40.00,restaurante,Restaurante Botin,1019.17,2025-12-13 13:15:00
 59f01b30-a491-4872-a0e7-d3dfdd5fe0be,-2.50,restaurante,Cervecería L'Europe,1016.67,2025-12-13 17:00:00
 34d2d1fa-ddeb-43ad-b796-0d1978cd3a1,-2.50,restaurante,Cervecería L'Europe,1014.17,2025-12-13 17:00:00

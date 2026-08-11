@@ -55,8 +55,9 @@ public class VectorStoreLoaderService extends AbstractLoaderService {
 
     private Document toDocument(TransactionDto transactionDto) {
 
-        String type = transactionDto.amount().signum() == -1 ? "Pago" : "Ingreso";
-        String content = String.format("%s en %s el %s por %s€ — categoría: %s",
+        String type = transactionDto.amount().signum() == -1 ? "Payment" : "Income";
+        String content = String.format("TransactionId: %s | %s at %s on %s for %s€ — category: %s",
+                transactionDto.transactionId(),
                 type,
                 transactionDto.description(),
                 transactionDto.datetime(),
@@ -64,12 +65,13 @@ public class VectorStoreLoaderService extends AbstractLoaderService {
                 transactionDto.category());
 
         Map<String, Object> metadata = Map.of(
+                "transactionId", transactionDto.transactionId(),
                 "type", type,
                 "description", transactionDto.description(),
                 "datetime", transactionDto.datetime(),
                 "category", transactionDto.category(),
                 "amount", transactionDto.amount());
 
-        return new Document(content, metadata);
+        return new Document(transactionDto.transactionId(), content, metadata);
     }
 }
