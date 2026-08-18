@@ -1,4 +1,4 @@
-package dev.code.financial.assistant.ai.service;
+package dev.code.financial.assistant.ai.service.loader.transaction;
 
 import dev.code.financial.assistant.ai.dto.TransactionDto;
 import dev.code.financial.assistant.ai.util.TransactionCsvUtil;
