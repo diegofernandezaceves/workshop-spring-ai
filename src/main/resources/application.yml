@@ -1,6 +1,7 @@
 logging:
   level:
     org.springframework.ai.chat.client.advisor: DEBUG
+    org.springframework.ai.transformer: WARN
     root: info
 
 spring:
@@ -16,5 +17,8 @@ spring:
         client:
           host: http://localhost
           port: 8000
-        collection-name: financial-assistant
         initialize-schema: true
+    banking:
+      collection-name: banking-transactions
+    financial:
+      collection-name: financial-knowledge
