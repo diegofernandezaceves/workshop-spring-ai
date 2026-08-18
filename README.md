@@ -304,3 +304,97 @@ curl -X POST 'http://localhost:8080/api/chat/analyze' \
     ]
 } 
 ```
+
+### Financial Advisor:
+
+### Analizar gastos hormiga
+```bash
+curl -X POST 'http://localhost:8080/api/chat/advisor' \
+--header 'Content-Type: application/json' \
+--data '{"message": "¿Que gastos pude ahorrarme en el mes de marzo?"}'
+```
+
+ℹ️ ***Agregado para revisar los gastos totales por categoria***
+```json
+[
+  {
+    $match: 
+    {
+      datetime: {
+        $gte: ISODate("2026-03-01T00:00:00Z"),
+        $lte: ISODate("2026-03-31T23:59:59Z")
+      }
+    }
+  },
+  {
+    $group: {
+      _id: "$category",
+      count: {
+        $sum: "$amount"
+      }
+    }
+  }
+]
+```
+
+### Ollama - `qwen3.5:4b`
+```txt
+Identifico tu patrón concreto: en **marzo gastaste 594.50€ exclusivamente en la categoría restaurante**. Analizando tus transacciones, ese dinero se dividió entre cafés y cenas rápidas de diferentes cadenas (Café Gijón, Café Central, Manila, etc.), con compras puntuales más altas como un café por 5.00€ y otras por 4.00€.
+
+Esto es un **clásico ejemplo de gasto hormiga** que el artículo destaca: *\"gastar 2 euros al día en café representa 60 euros al mes\"*. Tus cafés promedio oscilan entre 1.50€ y 3.00€ diarios, y suman más de la mitad del gasto total mensual en restaurante. El impacto va más allá del \"coco\": **esos desembolsos recurrentes impiden que alcances objetivos financieros importantes** como un fondo de emergencia o estabilidad financiera.
+
+**Cuantificación del impacto:**
+Si reduces los gastos en restaurante un **20%** (por ejemplo, evitando un café diario por 1.50€-2.00€, eligiendo agua y comida en casa), ahorrarías **118.90€ al mes**, lo que asciende a **1426.80€/año**. Si eliminas incluso el 50% de esos gastos hormiga, te quedarías con casi 300€ mensuales disponibles para reasignar.
+
+**Acción inmediata:**
+Cancela o limita por escrito tus suscripciones y visitas a cafeterías en marzo. Configura una alerta bancaria cuando cualquier gasto \"restaurante\" supere 2.50€ y verifica si se trata de un capricho real o un hábito que no valdrá la pena mantener.
+```
+
+### OpenAI - `GPT-4.1-mini`
+```txt
+En marzo registraste -594.50€ en restaurantes, -204.40€ en transporte y -90.00€ en retiradas en cajero. Estos son ejemplos claros de \"gastos hormiga\": pequeñas compras frecuentes (cafés, comidas fuera, recargas y efectivo) que se acumulan y reducen tu capacidad de ahorro.
+
+Si reduces restaurante un 50%, ahorrarías 3567.00€/año.
+Si reduces transporte un 30%, ahorrarías 735.84€/año.
+Si reduces retiradas en cajero un 50%, ahorrarías 540.00€/año.
+
+Regla única (acción para hoy): prepara tu café/snack y lleva agua de casa; pon el dinero equivalente de cada compra fuera en una cuenta de ahorros automática.
+```
+
+### Recomendacion de inversión del dinero ahorrado
+
+```bash
+curl -X POST 'http://localhost:8080/api/chat/advisor' \
+--header 'Content-Type: application/json' \
+--data '{"message": "¿Donde podria invertir el dinero ahorrado?"}'
+```
+
+### Ollama - `qwen3.5:4b`
+```txt
+**SITUACIÓN:** Tienes **2500,00€** ya reservados en tu cuenta de ahorros desde septiembre de 2025. Con un sueldo mensual de **2500,00€**, estás en una posición sólida para empezar a invertir hoy mismo. Tus gastos principales son: **hipoteca (800,00€/mes)**, **ocio Karting (aprox. 120,00€/mes)**, y **restaurante (unos 4,50€-3,50€ por día en los pocos días registrados)**.
+**ESTRATEGIA:** Basándome en el artículo de inversión de 2026, la herramienta más respaldada para tu perfil es un **Fondo Indexado**. Las plataformas como **Indexa Capital o inbestMe** gestionan automáticamente una cartera diversificada. Cobran entre **0,15% y 0,50%** pero eliminan todas las decisiones de gestión. La estrategia que aplicas debe ser el **Dollar Cost Averaging (DCA)**: invertir una cantidad fija cada mes independientemente del mercado.
+**PROYECCIÓN:** Si inviertes **250,00€ al año** (es decir, **20,83€ mensuales**), según el concepto de interés compuesto del artículo, en 10 años podrías alcanzar **396,00€**. Ese pequeño aporte inicial con el poder del tiempo es suficiente para proteger tu futuro. El artículo explica que invertir tardar es \"el único error imperdonable\" y que los fondos indexados tienen rentabilidades históricas sólidas con comisiones bajas.
+**ACIÓN:** Abre **Indexa Capital o inbestMe** en tu app bancaria hoy mismo, realiza un test de perfil de inversor gratuito y configura la primera transferencia automática de **20,83€ mensuales** desde tu cuenta corriente a la plataforma. Esto aplica el DCA desde el primer mes: el mercado fluctúa, pero con regularidad ganas tiempo para invertir.
+```
+
+### OpenAI - `GPT-4.1-mini`
+```txt
+SITUACIÓN — Liquidez y capacidad de ahorro
+- Saldo en tu cuenta a 31/03/2026: 2.660,84€.
+- Evolución en marzo: empezaste el mes con 1.796,72€ y cerraste con 2.660,84€ → ahorraste 864,12€ en marzo.  
+- Gasto fijo relevante: cuota de hipoteca mensual de -800,00€.
+
+ESTRATEGIA (recomendada según el artículo)
+- Opción principal para España: fondos indexados vía roboadvisor (p. ej. Indexa Capital). Ventajas: fiscalidad favorable en traspasos entre fondos, diversificación automática y gestión pasiva cómoda.  
+- Alternativa si quieres control total: cartera propia con ETFs (más trabajo y consideraciones fiscales).  
+- Reglas prácticas: define tu asset allocation (regla orientativa: 120 - edad = % en renta variable), usa DCA (aportación fija mensual) y rebalancea 1–2 veces al año.
+
+PROYECCIÓN (ejemplo numérico)
+- Si inviertes 864,12€/mes, según el concepto de fondos indexados (roboadvisor), podrías acelerar tu objetivo.  
+- Ejemplo simplificado: invirtiendo 864,12€/mes durante 20 años y asumiendo un 5% anual compuesto, podrías acumular aproximadamente 355.049,60€.
+
+ACCIÓN — Primer paso exacto que debes dar hoy
+- Abre una cuenta en un roboadvisor que trabaje con fondos indexados (por ejemplo, Indexa Capital) y programa una aportación automática mensual de 864,12€ desde tu cuenta bancaria.
+
+¿Quieres que abra el proceso con opciones concretas (Indexa vs MyInvestor) y te guíe paso a paso para crear la transferencia automática?
+```
