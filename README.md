@@ -32,8 +32,8 @@ A lo largo del workshop se construye iterativamente, empezando con un simple end
 | Tecnología | Versión |
 |-----------|---------|
 | Java | 21 |
-| Spring Boot | 4.0.6 |
-| Spring AI | 2.0.0-M5 |
+| Spring Boot | 4.1.0 |
+| Spring AI | 2.0.0 |
 | MongoDB | 7 |
 | Chroma | Latest |
 | Maven | 3.9+ |
