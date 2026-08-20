@@ -29,10 +29,10 @@ public class ChatService {
     public ChatService(ChatClient.Builder chatClientBuilder,
                        @Value("classpath:prompts/system-prompt.txt") Resource systemPrompt,
                        ChatMemory chatMemory,
-                       VectorStore vectorStore,
+                       VectorStore transactionsVectorStore,
                        TransactionTools transactionTools) {
 
-        QuestionAnswerAdvisor questionAnswerAdvisor = QuestionAnswerAdvisor.builder(vectorStore)
+        QuestionAnswerAdvisor questionAnswerAdvisor = QuestionAnswerAdvisor.builder(transactionsVectorStore)
                 .searchRequest(SearchRequest.builder()
                         .topK(80)
                         .similarityThreshold(0.2)
